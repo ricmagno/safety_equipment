@@ -1,5 +1,5 @@
 *.org~
 *.md~
-./images/Training
-./images/Testing
-./images/Validation
+images/Training/
+images/Testing/
+images/Validation/
