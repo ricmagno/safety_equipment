@@ -1,20 +1,20 @@
 
 # Table of Contents
 
-1.  [Safety Equipment on construction project.](#orga041854)
-    1.  [Tags:](#org81f396a)
-    2.  [Scripts](#org1c4c2d1)
+1.  [<span class="underline">Safety Equipment</span> on construction projects.](#org05a019b)
+    1.  [Tags:](#orgfb78f5f)
+    2.  [Scripts](#orgff5eb0f)
 
 
-<a id="orga041854"></a>
+<a id="org05a019b"></a>
 
-# Safety Equipment on construction project.
+# <span class="underline">Safety Equipment</span> on construction projects.
 
 Tags (squares) were marked using [lableimg](https://github.com/tzutalin/labelImg). 
 The output file is the `.xml` with the same name as the picture and contains the squares coordinates and tags name.
 
 
-<a id="org81f396a"></a>
+<a id="orgfb78f5f"></a>
 
 ## Tags:
 
@@ -22,7 +22,7 @@ The output file is the `.xml` with the same name as the picture and contains the
 -   high-vis
 
 
-<a id="org1c4c2d1"></a>
+<a id="orgff5eb0f"></a>
 
 ## Scripts
 

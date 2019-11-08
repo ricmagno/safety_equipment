@@ -1,4 +1,4 @@
-* Safety Equipment on construction project.
+* _Safety Equipment_ on construction projects.
 Tags (squares) were marked using [[https://github.com/tzutalin/labelImg][lableimg]]. 
 The output file is the ~.xml~ with the same name as the picture and contains the squares coordinates and tags name.
 
