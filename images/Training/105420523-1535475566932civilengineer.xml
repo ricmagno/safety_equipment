@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>105420523-1535475566932civilengineer.jpg</filename>
+	<path>/Users/ricmagno/Dropbox/WorkingBox/SoftwareDev/Coco_ssd_mobilenet/Dataset/Images/105420523-1535475566932civilengineer.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1060</xmin>
+			<ymin>166</ymin>
+			<xmax>1401</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>high-vis</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>778</xmin>
+			<ymin>589</ymin>
+			<xmax>1682</xmax>
+			<ymax>1334</ymax>
+		</bndbox>
+	</object>
+</annotation>

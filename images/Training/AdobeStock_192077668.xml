@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>AdobeStock_192077668.jpg</filename>
+	<path>/Users/ricmagno/Dropbox/WorkingBox/SoftwareDev/Coco_ssd_mobilenet/Dataset/Images/AdobeStock_192077668.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2697</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1382</xmin>
+			<ymin>45</ymin>
+			<xmax>1907</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

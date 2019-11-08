@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>images130.jpg</filename>
+	<path>/Users/ricmagno/Dropbox/WorkingBox/SoftwareDev/Coco_ssd_mobilenet/Dataset/Images/images130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>88</width>
+		<height>222</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>61</ymin>
+			<xmax>35</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>

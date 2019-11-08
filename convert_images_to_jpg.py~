@@ -1,0 +1,9 @@
+from PIL import Image
+
+
+
+
+# IMAGE_PATHS = sorted(list(PATH_SOURCE_IMAGES_DIR.glob("*.jpg")))
+
+
+im = Image.open(files)

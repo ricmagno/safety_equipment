@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>images207.jpg</filename>
+	<path>/Users/ricmagno/Dropbox/WorkingBox/SoftwareDev/Coco_ssd_mobilenet/Dataset/Images/images207.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>287</width>
+		<height>175</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>39</ymin>
+			<xmax>208</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>high-vis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>59</ymin>
+			<xmax>241</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>

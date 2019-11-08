@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Blog-image-gifts.png</filename>
+	<path>/Users/ricmagno/Dropbox/WorkingBox/SoftwareDev/Coco_ssd_mobilenet/Dataset/Images/Blog-image-gifts.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>548</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>13</ymin>
+			<xmax>382</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>

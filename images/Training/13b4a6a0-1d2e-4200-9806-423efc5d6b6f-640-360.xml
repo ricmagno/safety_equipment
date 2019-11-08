@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>13b4a6a0-1d2e-4200-9806-423efc5d6b6f-640-360.jpg</filename>
+	<path>/Users/ricmagno/Dropbox/WorkingBox/SoftwareDev/Coco_ssd_mobilenet/Dataset/Images/13b4a6a0-1d2e-4200-9806-423efc5d6b6f-640-360.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hard hat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>1</ymin>
+			<xmax>484</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+</annotation>
