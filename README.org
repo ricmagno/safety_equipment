@@ -1,0 +1,5 @@
+* Safety Equipment on construction project.
+Tags (squares) were marked using `lableimg`. The output file is the ~.xml~ with the same name as the picture and contains the squares coordinates and tags name.
+** Tags:
+   - hard hat
+   - high-vis
