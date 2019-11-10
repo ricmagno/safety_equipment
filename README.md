@@ -1,12 +1,13 @@
 
 # Table of Contents
 
-1.  [<span class="underline">Safety Equipment</span> on construction projects.](#org8e8b4c6)
-    1.  [Tags:](#org01347c4)
-    2.  [Scripts](#org09773af)
+1.  [<span class="underline">Safety Equipment</span> on construction projects.](#org03c5f06)
+    1.  [Tags:](#orgabd40b5)
+    2.  [Scripts](#orgbe489c0)
+    3.  [Upgrade code to tensorflow 2:](#org7d6e953)
 
 
-<a id="org8e8b4c6"></a>
+<a id="org03c5f06"></a>
 
 # <span class="underline">Safety Equipment</span> on construction projects.
 
@@ -14,7 +15,7 @@ Tags (squares) were marked using [lableimg](https://github.com/tzutalin/labelImg
 The output file is the `.xml` with the same name as the picture and contains the squares coordinates and tags name.
 
 
-<a id="org01347c4"></a>
+<a id="orgabd40b5"></a>
 
 ## Tags:
 
@@ -22,7 +23,7 @@ The output file is the `.xml` with the same name as the picture and contains the
 -   high-vis
 
 
-<a id="org09773af"></a>
+<a id="orgbe489c0"></a>
 
 ## Scripts
 
@@ -40,4 +41,15 @@ The output file is the `.xml` with the same name as the picture and contains the
             -   `python3 generate_tfrecord.py --csv_input=images/Validation/Validation_labels.csv  --output_path=images/Validation/Validation.record --image_dir=images/Validation/`
         3.  For testing:
             -   `python3 generate_tfrecord.py --csv_input=images/Testing/Testing_labels.csv  --output_path=images/Testing/Testing.record --image_dir=images/Testing/`
+
+
+<a id="org7d6e953"></a>
+
+## Upgrade code to tensorflow 2:
+
+    
+    tf_upgrade_v2 \
+      --intree my_project/ \
+      --outtree my_project_v2/ \
+      --reportfile report.txt
 
