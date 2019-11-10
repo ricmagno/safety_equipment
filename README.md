@@ -1,12 +1,12 @@
 
 # Table of Contents
 
-1.  [<span class="underline">Safety Equipment</span> on construction projects.](#org2b057a3)
-    1.  [Tags:](#org07d4d56)
-    2.  [Scripts](#org80e01b4)
+1.  [<span class="underline">Safety Equipment</span> on construction projects.](#org8e8b4c6)
+    1.  [Tags:](#org01347c4)
+    2.  [Scripts](#org09773af)
 
 
-<a id="org2b057a3"></a>
+<a id="org8e8b4c6"></a>
 
 # <span class="underline">Safety Equipment</span> on construction projects.
 
@@ -14,7 +14,7 @@ Tags (squares) were marked using [lableimg](https://github.com/tzutalin/labelImg
 The output file is the `.xml` with the same name as the picture and contains the squares coordinates and tags name.
 
 
-<a id="org07d4d56"></a>
+<a id="org01347c4"></a>
 
 ## Tags:
 
@@ -22,7 +22,7 @@ The output file is the `.xml` with the same name as the picture and contains the
 -   high-vis
 
 
-<a id="org80e01b4"></a>
+<a id="org09773af"></a>
 
 ## Scripts
 
@@ -32,12 +32,12 @@ The output file is the `.xml` with the same name as the picture and contains the
 4.  To convert `.xml` to `.csv` use `xml_to_csv.py` (from [raccoon](https://github.com/datitran/raccoon_dataset)).
 5.  To convert `.csv` to `.tfrecord` `generate_tfrecord.py`.
     1.  Make sure to set up eht environment variable `PYTHONPATH`:
-        ~export PYTHONPATH=$PYTHONPATH:<path<sub>to</sub><sub>tensorflow</sub>>/models/research/:<path<sub>to</sub><sub>tensorflow</sub>>/models/research/slim
+        `export PYTHONPATH=$PYTHONPATH:<path_to_tensorflow>/models/research/:<path_to_tensorflow>/models/research/slim`
     2.  Run: 
         1.  For training:
-            -   ~python3 generate<sub>tfrecord.py</sub> &#x2013;csv<sub>input</sub>=images/Training/Training<sub>labels.csv</sub>  &#x2013;output<sub>path</sub>=images/Training/Training.record &#x2013;image<sub>dir</sub>=images/Training/
+            -   `python3 generate_tfrecord.py --csv_input=images/Training/Training_labels.csv  --output_path=images/Training/Training.record --image_dir=images/Training/`
         2.  For validation:
-            -   ~python3 generate<sub>tfrecord.py</sub> &#x2013;csv<sub>input</sub>=images/Validation/Validation<sub>labels.csv</sub>  &#x2013;output<sub>path</sub>=images/Validation/Validation.record &#x2013;image<sub>dir</sub>=images/Validation/
+            -   `python3 generate_tfrecord.py --csv_input=images/Validation/Validation_labels.csv  --output_path=images/Validation/Validation.record --image_dir=images/Validation/`
         3.  For testing:
-            -   ~python3 generate<sub>tfrecord.py</sub> &#x2013;csv<sub>input</sub>=images/Testing/Testing<sub>labels.csv</sub>  &#x2013;output<sub>path</sub>=images/Testing/Testing.record &#x2013;image<sub>dir</sub>=images/Testing/
+            -   `python3 generate_tfrecord.py --csv_input=images/Testing/Testing_labels.csv  --output_path=images/Testing/Testing.record --image_dir=images/Testing/`
 
