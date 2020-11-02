@@ -32,6 +32,9 @@ This study researches into a niche area, leading to contextual benchmarks for sm
 -          Schedule of the project delivery: The project period is December 1st, 2020 to February 15th, 2021
 -          Estimated total number of hours for delivery of each phase of the project
 -          Hourly rate ($/hrs)
+** Duration:
+   - Weeks:
+   - Days:
 * Cost
 ** Resources
 
@@ -41,4 +44,12 @@ This study researches into a niche area, leading to contextual benchmarks for sm
 |------+----------------------+-------+------+------|
 |      | Issue tracker set-up |     2 |      |      |
 |      | Data collection      |    16 |      |      |
-|      |                      |       |      |      |
+|      | Data labelling       |    40 |      |      |
+|      | System architecture  |       |      |      |
+|      | Network design       |       |      |      |
+|      | Network training     |       |      |      |
+|      | Network evaluation   |       |      |      |
+|      | Scrum events         |       |      |      |
+|------+----------------------+-------+------+------|
+|      | Total                | :=vsum($3) |      |      |
+#+TBLFM: @10$3=vsum($3)
