@@ -1,0 +1,159 @@
+% Created 2020-11-03 Tue 14:27
+% Intended LaTeX compiler: pdflatex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage[margin=2cm]{geometry}
+\usepackage[a4paper,bindingoffset=0.2in,left=1in,right=1in,top=1in,bottom=1in,footskip=.25in]{geometry}
+\author{Ricardo Antunes}
+\date{\today}
+\title{Smart Health and Safety Compliance Management for Construction Enterprises\\\medskip
+\large NOT FOR RELEASE}
+\hypersetup{
+ pdfauthor={Ricardo Antunes},
+ pdftitle={Smart Health and Safety Compliance Management for Construction Enterprises},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 27.1 (Org mode 9.4)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+
+
+\section{Proposal summary}
+\label{sec:org46e007e}
+In 2013, The New Zealand Government set a target to reduce work-related fatalities and serious injuries by at least 25\% in seven years. Worksafe, the country's primary workplace health and safety (H\&S) regulator, has used three work-related indicators to measure the progress over this period. The latest official data released by Stats NZ indicated that despite the initial decline two out of these three indicators have bounced back in the past few years (Figure 1), where the construction industry recorded the highest number of incidents related to indicator 2 and the second highest in indicator 3.  
+
+A review of the current safety management conducts in the construction industry shows them taking stock in individual reporting and filing colossal paperwork. It makes their output prone to human errors originated either from mistakes or from slips and lapses of memory. These issues together with the potential physical loss of information present a serious flaw in the system. Simultaneously, companies are forced to bid with the lowest profit margins to survive in their high competitive environment. Therefore, it is a high priority for every construction company to take up an H\&S compliance management solution that could balance costs, risks and governance. This proposal aims to complete one step towards sustaining a system that combines the power of machine learning and image processing to "smartify" the risk identification and reporting at the construction sites. Image processing enables the analysis of the safety compliance based on images from the job site. Machine learning applies artificial intelligence (AI) to automate learning and to improve from experience without being explicitly programmed. The proposed system provides an accessible and inexpensive solutions operable from the ordinary devices such as the mobile phones with a minimum/ no training period.
+
+\section{Development background}
+\label{sec:org9a36077}
+
+This research presents a novel idea in the field of construction H\&S that was initiated by two early-carrier researchers of the Built Environment Engineering department at AUT. It was elaborated further by taking to an external industrial project manager. The team completed an initial feasibility assessment by testing the capability of the combination of Image processing and machine learning in a particular case (figure 2).
+Next, the idea was presented to BRANZ, a major player of research, testing, and consulting in the New Zealand building industry at two steps. In the first step, a senior scientist of the company investigated the idea, who brought it to the attention of their investment manager. The second step involved rationalising the definition of a research project based on the proposed idea for the funders. As a result, the team was encouraged to apply for an out of cycle funding subject to providing a proof of concept in the industrial context. Accordingly, a senior scholar in the computer science department at AUT was invited and joined in mid-2019. Since then, the team has worked on presenting the idea to the potential stakeholders form the industry. 
+\section{Expected outcomes}
+\label{sec:org3751446}
+This study researches into a niche area, leading to contextual benchmarks for smartification of the compliance management in the construction sector. It can provide useful pointers and information with a contextual transferability of results to the peer domains.
+
+\section{Project milestones}
+\label{sec:org284e06e}
+\subsection{Project kick-off}
+\label{sec:org12420c2}
+\begin{itemize}
+\item December 1st, 2020
+\end{itemize}
+\subsection{Project delivery}
+\label{sec:orgb23d6a4}
+\begin{itemize}
+\item Febrary 15th, 2021
+\end{itemize}
+\begin{itemize}
+\item Required resources (equipment)
+\item Schedule of the project delivery: The project period is December 1st, 2020 to February 15th, 2021
+\item Estimated total number of hours for delivery of each phase of the project
+\item Hourly rate (\$/hrs)
+\end{itemize}
+\subsection{Duration:}
+\label{sec:orga853f5f}
+\begin{itemize}
+\item Weeks: 11
+\end{itemize}
+\section{Cost}
+\label{sec:org57a8bea}
+\subsection{Resources}
+\label{sec:org16aa4a7}
+\begin{center}
+\begin{tabular}{lllrrr}
+ & Description & Model & Unit cost & Quantitiy & Cost\\
+\hline
+ & Graphics video card & Radeon RX 5700XT for OpenCV & 800 & 1 & 800\\
+ & (or) & NVIDIA RTX 2070 for CUDA & 800 & 1 & 800\\
+ & eGPU enclousure & Razor Core X & 600 & 1 & 600\\
+\hline
+ & Total &  &  &  & 2200\\
+\end{tabular}
+\end{center}
+
+\subsection{Project events}
+\label{sec:org7b8193d}
+\subsubsection{Issue tracker set-up}
+\label{sec:orgde53d0b}
+An issue tracking system is a computer software package that manages and maintains lists of issues.
+Issue tracking systems are generally used in collaborative settings—especially in large or distributed collaborations—but can also be employed by individuals as part of a time management or personal productivity regime.
+\subsubsection{Data collection}
+\label{sec:org3a63c58}
+Data is either images or videos where the equipment is show.
+The amount, quality and variaty of the data collected impacts had a direct impact on the system accuracy. 
+\subsubsection{Data labelling}
+\label{sec:orgf08f0c1}
+The equipment when present on the data has to be labelled.
+That means either draw a polygon around each equipment of interest on each image or frame (in the case of video) of the data collection.
+\subsubsection{System architecture}
+\label{sec:org1d1d138}
+The system architecture is the conceptual model that defines the structure, behavior, and more views of a system.
+An architecture description is a formal description and representation of a system, organized in a way that supports reasoning about the structures and behaviors of the system.
+The system architeture depends of the final form of deployment, source format, source resolution, scaliability, among other factors.
+\subsubsection{Network design}
+\label{sec:orgb1e6e95}
+The system may contain several networks depending of the funcionalities and system architeture.
+\subsubsection{Network training}
+\label{sec:org37388e6}
+Different networks require training methods and efforts.
+Training requires preparation and sortout data and prototyping.
+\subsubsection{Network evaluation}
+\label{sec:org2f0ea87}
+Every network should perform with sufficient accuracy.
+\subsubsection{Application development}
+\label{sec:org2bc2d93}
+Once trained, the network should be wrapped by an application.
+That enables the end-user to utilize the system without further requirement other than those instructions presented on the screen.
+\subsubsection{Application deployment}
+\label{sec:orgcd604eb}
+The application deployment involves make the application availabe in a suitable host.
+For instance, the application run stand alone on a desktop computer or online as a website or as and mobile phone application.
+\subsubsection{Scrum events and project management}
+\label{sec:org67a124e}
+Scrum is an agile framework for developing, delivering, and sustaining complex products, with an initial emphasis on software development
+It is designed for teams of ten or fewer members, who break their work into goals that can be completed within timeboxed iterations, called sprints, no longer than one month and most commonly two weeks.
+At the end of the sprint, the team holds sprint review, to demonstrate the work done, and sprint retrospective to continuously improve.
+
+\subsection{Effort estimation}
+\label{sec:orgdfb3b64}
+
+\begin{center}
+\begin{tabular}{lrrr}
+Description & Effort (h) & Rate (NZD) & Cost\\
+\hline
+Issue tracker & 5 & 20 & 100\\
+Data collection & 20 & 40 & 800\\
+Data labelling & 80 & 40 & 1600\\
+System architecture & 20 & 80 & 1600\\
+Network design & 10 & 100 & 1000\\
+Network training & 100 & 100 & 10000\\
+Network evaluation & 40 & 100 & 4000\\
+Application development & 50 & 50 & 1000\\
+Application deployment & 30 & 80 & 2400\\
+Scrum events & 30 & 80 & 2400\\
+\hline
+Total & 385 &  & 24900\\
+\end{tabular}
+\end{center}
+
+\subsection{Taxes}
+\label{sec:org54abf36}
+Cost values does not includes taxes.
+\end{document}
