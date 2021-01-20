@@ -75,27 +75,16 @@ It can provide useful pointers and information with a contextual transferability
 
 * Project status
 
-** Scope
+** COMMENT Scope
 
-*** Data collection
+*** COMMENT Data collection
 The data collection has been restricted to data collecteDue to project inactivity and approaching that project delivery date.
 The data will now be artificially generated using one webcam, one hard-hat and 1 hight-vizibilty jacket/vest provide by Dr. Roohollah Kalatehjari on 20/01/2021.
 The recording area in use is WZ level 1.
 The approximate installation height of the camera will be 2.20m. 
 The recording are will help the developer to prepare the required footages for the training phase. 
-**** Implications on project goal
-The final goal is to provide a prototype that detects if people are using hard-hat and high-visibility jackets/vests at any of the entries of the laboratory area of WZ building.
-The accuracy of the system is expected to be inefficient on a construction scenario because of the lack pf approppriate data.
 
 
-**** Resources
-     The following resources were provided to the devoper on 20 Jan 2021:
-
-  | Quantitity | Resource                        |
-  |------------+---------------------------------|
-  |          1 | webcam                          |
-  |          1 | hard hat                        |
-  |          1 | high-visibility jacket (hi-viz) |
 
 ** COMMENT Resources
 |   | Description         | Model                       | Unit cost | Quantitiy | Cost |
@@ -107,57 +96,123 @@ The accuracy of the system is expected to be inefficient on a construction scena
 |   | Total               |                             |           |           | 2200 |
 #+TBLFM: @>$6=vsum(@I..@II)::$6=$4*$5
 
-** Project events
-*** Issue tracker set-up
+** COMMENT Project events
+
+** Project schedule summary
+
+ |   | Description                | Assigned to | Planned Effort (h) | Actual Effort (h) | Status      | Overall |
+ |---+----------------------------+-------------+--------------------+-------------------+-------------+---------|
+ | # | Issue tracker / Repository |           3 |                  0 |                 0 | Not started | Delayed |
+ | # | Data collection            |           3 |                 30 |                 0 | Not started | Delayed |
+ | # | Data labelling             |           3 |                 50 |                 0 | Not started | Delayed |
+ | # | System architecture        |           3 |                 10 |                 0 | Not started | Delayed |
+ | # | Network design             |           3 |                 10 |                 0 | Not started | Delayed |
+ | # | Network training           |           3 |                 50 |                 0 | Not started |         |
+ | # | Network evaluation         |           3 |                 20 |                 0 | Not started |         |
+ | # | Network testing            |       1,2,3 |                 15 |                 0 | Not started |         |
+ | # | Application development    |           2 |                  0 |                 0 | Not started |         |
+ | # | Application deployment     |           2 |                  0 |                 0 | Not started |         |
+ | # | Scrum events               |           1 |                  0 |                 0 | On going    |         |
+ |---+----------------------------+-------------+--------------------+-------------------+-------------+---------|
+ | # | Total                      |          32 |                185 |                 0 | Delayed     | Delayed |
+
+ #+TBLFM: @>$4=vsum(@I..@II)::@>$3=vsum(@I..@II)
+
+
+** Issue tracker and code repository set-up
+*** Summary
     An issue tracking system is a computer software package that manages and maintains lists of issues.
     Issue tracking systems are generally used in collaborative settings—especially in large or distributed collaborations—but can also be employed by individuals as part of a time management or personal productivity regime.
-*** Data collection
-    Data is either images or videos where the equipment is show.
-    The amount, quality and variaty of the data collected impacts had a direct impact on the system accuracy. 
-*** Data labelling
+
+- Github ([[http://www.github.com]]) is the intended repository for the project. 
+*** Status at the issue of Report 01.
+- The issue tracking system and code repository has not been set by the responsible.
+    
+** Data collection
+
+*** Summary
+     Data is either images or videos where the equipment is show.
+     The amount, quality and variaty of the data collected impacts had a direct impact on the system accuracy. 
+
+*** Status at issue of Report 01
+     The data collection has been restricted to data collecteDue to project inactivity and approaching that project delivery date.
+     The data will now be artificially generated using one webcam, one hard-hat and 1 hight-vizibilty jacket/vest provided by Dr. Roohollah Kalatehjari on 20/01/2021.
+     The recording area in use is WZ level 1.
+     The approximate installation height of the camera will be 2.20m. 
+     The recording are will help the developer to prepare the required footages for the training phase. 
+
+**** Resources
+    The following resources were provided to the devoper on 20 Jan 2021:
+
+    | Quantitity | Resource                        |
+    |------------+---------------------------------|
+    |          1 | webcam                          |
+    |          1 | hard hat                        |
+    |          1 | high-visibility jacket (hi-viz) |
+
+*** Implications on project goal
+     The final goal is to provide a prototype that detects if people are using hard-hat and high-visibility jackets/vests at any of the entries of the laboratory area of WZ building.
+     The accuracy of the system is expected to be inefficient on a construction scenario because of the lack Of approppriate data.
+
+
+** Data labelling
+*** Summary
     The equipment when present on the data has to be labelled.
     That means either draw a polygon around each equipment of interest on each image or frame (in the case of video) of the data collection.
-*** System architecture
+*** Status at issue on Report 01
+     This event has not starded yet.
+** System architecture
+*** Summary
     The system architecture is the conceptual model that defines the structure, behavior, and more views of a system.
     An architecture description is a formal description and representation of a system, organized in a way that supports reasoning about the structures and behaviors of the system.
     The system architeture depends of the final form of deployment, source format, source resolution, scaliability, among other factors.
-*** Network design
+
+*** Status at issue on Report 01
+     This event has not starded yet.
+
+** Network design
+*** Summary
     The system may contain several networks depending of the funcionalities and system architeture.
-*** Network training
+
+*** Status at issue on Report 01
+     This event has not starded yet.
+
+** Network training
+*** Summary
     Different networks require training methods and efforts.
     Training requires preparation and sortout data and prototyping.
-*** Network evaluation
+
+*** Status at issue on Report 01
+     This event has not starded yet.
+
+** Network evaluation
+*** Summary
     Every network should perform with sufficient accuracy.
-*** Application development
+*** Status at issue on Report 01
+     This event has not starded yet.
+
+** Application development
+*** Summary
     Once trained, the network should be wrapped by an application.
     That enables the end-user to utilize the system without further requirement other than those instructions presented on the screen.
-*** Application deployment
+*** Status at issue on Report 01
+     This event has not starded yet.
+
+** Application deployment
+*** Summary
     The application deployment involves make the application availabe in a suitable host.
     For instance, the application run stand alone on a desktop computer or online as a website or as and mobile phone application.
-*** Scrum events and project management
-    Scrum is an agile framework for developing, delivering, and sustaining complex products, with an initial emphasis on software development
+*** Status at issue on Report 01
+     - This event has not starded yet.
+
+** Scrum events and project management
+*** Status at issue of Report 01
+     - Scrum is an agile framework for developing, delivering, and sustaining complex products, with an initial emphasis on software development
     It is designed for teams of ten or fewer members, who break their work into goals that can be completed within timeboxed iterations, called sprints, no longer than one month and most commonly two weeks.
     At the end of the sprint, the team holds sprint review, to demonstrate the work done, and sprint retrospective to continuously improve.
+*** Status at issue on Report 01
+     - This event has not starded yet.
 
-** Project schedule
-
- |   | Description                | Planned Effort (h) | Actual Effort (h) | Status      | Assigned to |
- |---+----------------------------+--------------------+-------------------+-------------+-------------|
- | # | Issue tracker / Repository |                  0 |                 0 | Not started |           3 |
- | # | Data collection            |                 30 |                 0 | Not started |           3 |
- | # | Data labelling             |                 50 |                 0 | Not started |           3 |
- | # | System architecture        |                 10 |                 0 | Not started |           3 |
- | # | Network design             |                 10 |                 0 | Not started |           3 |
- | # | Network training           |                 50 |                 0 | Not started |           3 |
- | # | Network evaluation         |                 20 |                 0 | Not started |           3 |
- | # | Network testing            |                 15 |                 0 | Not started |       1,2,3 |
- | # | Application development    |                  0 |                 0 | Not started |           2 |
- | # | Application deployment     |                  0 |                 0 | Not started |           2 |
- | # | Scrum events               |                  0 |                 0 | On going    |           1 |
- |---+----------------------------+--------------------+-------------------+-------------+-------------|
- | # | Total                      |                185 |                 0 | Delayed     |             |
-
- #+TBLFM: @>$4=vsum(@I..@II)::@>$3=vsum(@I..@II)
 
 ** COMMENT Taxes
     Cost values does not includes taxes.
