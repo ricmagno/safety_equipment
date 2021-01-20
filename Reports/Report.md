@@ -1,33 +1,33 @@
 
 # Table of Contents
 
-1.  [Proposal summary](#org8b40bfc)
-2.  [Development background](#org62ef5a2)
-3.  [Expected outcomes](#orgbb2c371)
-4.  [Project delivery](#orgb8f8c42)
-    1.  [Duration:](#orgaeb8868)
-5.  [Project team](#org9543fc1)
-6.  [Project milestones](#org3c73a21)
-7.  [Project status](#org340932f)
-    1.  [Scope](#orgedd7c25)
-        1.  [Data collection](#org8ebcb78)
-        2.  [Resources](#orgb9065e2)
-    2.  [Project events](#org91107af)
-        1.  [Issue tracker set-up](#org0daa532)
-        2.  [Data collection](#org4ae556a)
-        3.  [Data labelling](#org1805cbb)
-        4.  [System architecture](#orgf286754)
-        5.  [Network design](#org84f8d76)
-        6.  [Network training](#orga83abc0)
-        7.  [Network evaluation](#orgde6e1e3)
-        8.  [Application development](#org63942fd)
-        9.  [Application deployment](#org72e9f3d)
-        10. [Scrum events and project management](#orga2c537a)
-    3.  [Project schedule](#org6c52522)
+1.  [Proposal summary](#org3a9fc64)
+2.  [Development background](#org886858a)
+3.  [Expected outcomes](#orgd3c246c)
+4.  [Project delivery](#org343f3ca)
+    1.  [Duration:](#org12068c8)
+5.  [Project team](#orgdeb790c)
+6.  [Project milestones](#org7d05b7f)
+7.  [Project status](#org76cde90)
+    1.  [Scope](#orgc55f11d)
+        1.  [Data collection](#org50c59fa)
+        2.  [Resources](#orgcaa681d)
+    2.  [Project events](#org6bbc3f5)
+        1.  [Issue tracker set-up](#org60d5a89)
+        2.  [Data collection](#orgac37eba)
+        3.  [Data labelling](#org9bb36b7)
+        4.  [System architecture](#orgef9fc7c)
+        5.  [Network design](#orgabed2f2)
+        6.  [Network training](#org49b2ecf)
+        7.  [Network evaluation](#org99aa4b8)
+        8.  [Application development](#org2fd3299)
+        9.  [Application deployment](#org34cdf49)
+        10. [Scrum events and project management](#org235fac7)
+    3.  [Project schedule](#orgbe959a0)
 
 
 
-<a id="org8b40bfc"></a>
+<a id="org3a9fc64"></a>
 
 # Proposal summary
 
@@ -44,7 +44,7 @@ Machine learning applies artificial intelligence (AI) to automate learning and t
 The proposed system provides an accessible and inexpensive solutions operable from the ordinary devices such as the mobile phones with a minimum/ no training period.
 
 
-<a id="org62ef5a2"></a>
+<a id="org886858a"></a>
 
 # Development background
 
@@ -57,7 +57,7 @@ Accordingly, a senior scholar in the computer science department at AUT was invi
 Since then, the team has worked on presenting the idea to the potential stakeholders form the industry. 
 
 
-<a id="orgbb2c371"></a>
+<a id="orgd3c246c"></a>
 
 # Expected outcomes
 
@@ -65,7 +65,7 @@ Since then, the team has worked on presenting the idea to the potential stakehol
 It can provide useful pointers and information with a contextual transferability of results to the peer domains.
 
 
-<a id="orgb8f8c42"></a>
+<a id="org343f3ca"></a>
 
 # Project delivery
 
@@ -76,14 +76,14 @@ It can provide useful pointers and information with a contextual transferability
 -   Hourly rate ($/hrs)
 
 
-<a id="orgaeb8868"></a>
+<a id="org12068c8"></a>
 
 ## Duration:
 
 -   Weeks: 11
 
 
-<a id="org9543fc1"></a>
+<a id="orgdeb790c"></a>
 
 # Project team
 
@@ -92,7 +92,7 @@ It can provide useful pointers and information with a contextual transferability
 3.  Mohammad Norouzifard (mohammad.norouzifard@aut.ac.nz) - Developer (Network)
 
 
-<a id="org3c73a21"></a>
+<a id="org7d05b7f"></a>
 
 # Project milestones
 
@@ -168,30 +168,33 @@ It can provide useful pointers and information with a contextual transferability
 </table>
 
 
-<a id="org340932f"></a>
+<a id="org76cde90"></a>
 
 # Project status
 
 
-<a id="orgedd7c25"></a>
+<a id="orgc55f11d"></a>
 
 ## Scope
 
 
-<a id="org8ebcb78"></a>
+<a id="org50c59fa"></a>
 
 ### Data collection
 
-    So far the Further to our phone conversations, please arrange to collect the following items from room 801 (WZ level 8) at 12 pm on Wednesday, 20 Jan 2021:
-1x webcam,
-1x hard hat and
-1x Hi-viz.
-Dr Roohollah Kalatehjari will be there to hand over the items.
+The data collection has been restricted to data collecteDue to project inactivity and approaching that project delivery date.
+The data will now be artificially generated using one webcam, one hard-hat and 1 hight-vizibilty jacket/vest provide by Dr Roohollah Kalatehjari on 20/01/2021.
+The recording area in use is WZ level 1.
+The approximate installation height of the camera will be 2.20m. 
+The recording are will help the developer to prepare the required footages for the training phase. 
 
-As discussed, it will help you to prepare the required footages for the training phase. We can use WZ level 1 as the recording area. Just to confirm, the final goal is to provide a prototype that detects if people are using hard hat and hi-vis at any of the entries of the laboratory area of WZ building. The approximate installation height of the camera will be 2.20m.
+1.  Implications on project goal
+
+    The final goal is to provide a prototype that detects if people are using hard-hat and high-visibility jackets/vests at any of the entries of the laboratory area of WZ building.
+    The accuracy of the system is expected to be inefficient on a construction scenario because of the lack pf approppriate data.
 
 
-<a id="orgb9065e2"></a>
+<a id="orgcaa681d"></a>
 
 ### Resources
 
@@ -242,12 +245,12 @@ The approximate installation height of the camera will be 2.20m.
 @Ricardo Please, keep in touch with Mohammad & keep the team posted on the progress and any further requirements.
 
 
-<a id="org91107af"></a>
+<a id="org6bbc3f5"></a>
 
 ## Project events
 
 
-<a id="org0daa532"></a>
+<a id="org60d5a89"></a>
 
 ### Issue tracker set-up
 
@@ -255,7 +258,7 @@ An issue tracking system is a computer software package that manages and maintai
 Issue tracking systems are generally used in collaborative settings—especially in large or distributed collaborations—but can also be employed by individuals as part of a time management or personal productivity regime.
 
 
-<a id="org4ae556a"></a>
+<a id="orgac37eba"></a>
 
 ### Data collection
 
@@ -263,7 +266,7 @@ Data is either images or videos where the equipment is show.
 The amount, quality and variaty of the data collected impacts had a direct impact on the system accuracy. 
 
 
-<a id="org1805cbb"></a>
+<a id="org9bb36b7"></a>
 
 ### Data labelling
 
@@ -271,7 +274,7 @@ The equipment when present on the data has to be labelled.
 That means either draw a polygon around each equipment of interest on each image or frame (in the case of video) of the data collection.
 
 
-<a id="orgf286754"></a>
+<a id="orgef9fc7c"></a>
 
 ### System architecture
 
@@ -280,14 +283,14 @@ An architecture description is a formal description and representation of a syst
 The system architeture depends of the final form of deployment, source format, source resolution, scaliability, among other factors.
 
 
-<a id="org84f8d76"></a>
+<a id="orgabed2f2"></a>
 
 ### Network design
 
 The system may contain several networks depending of the funcionalities and system architeture.
 
 
-<a id="orga83abc0"></a>
+<a id="org49b2ecf"></a>
 
 ### Network training
 
@@ -295,14 +298,14 @@ Different networks require training methods and efforts.
 Training requires preparation and sortout data and prototyping.
 
 
-<a id="orgde6e1e3"></a>
+<a id="org99aa4b8"></a>
 
 ### Network evaluation
 
 Every network should perform with sufficient accuracy.
 
 
-<a id="org63942fd"></a>
+<a id="org2fd3299"></a>
 
 ### Application development
 
@@ -310,7 +313,7 @@ Once trained, the network should be wrapped by an application.
 That enables the end-user to utilize the system without further requirement other than those instructions presented on the screen.
 
 
-<a id="org72e9f3d"></a>
+<a id="org34cdf49"></a>
 
 ### Application deployment
 
@@ -318,7 +321,7 @@ The application deployment involves make the application availabe in a suitable 
 For instance, the application run stand alone on a desktop computer or online as a website or as and mobile phone application.
 
 
-<a id="orga2c537a"></a>
+<a id="org235fac7"></a>
 
 ### Scrum events and project management
 
@@ -327,7 +330,7 @@ It is designed for teams of ten or fewer members, who break their work into goal
 At the end of the sprint, the team holds sprint review, to demonstrate the work done, and sprint retrospective to continuously improve.
 
 
-<a id="org6c52522"></a>
+<a id="orgbe959a0"></a>
 
 ## Project schedule
 
