@@ -1,33 +1,33 @@
 
 # Table of Contents
 
-1.  [Proposal summary](#org3a9fc64)
-2.  [Development background](#org886858a)
-3.  [Expected outcomes](#orgd3c246c)
-4.  [Project delivery](#org343f3ca)
-    1.  [Duration:](#org12068c8)
-5.  [Project team](#orgdeb790c)
-6.  [Project milestones](#org7d05b7f)
-7.  [Project status](#org76cde90)
-    1.  [Scope](#orgc55f11d)
-        1.  [Data collection](#org50c59fa)
-        2.  [Resources](#orgcaa681d)
-    2.  [Project events](#org6bbc3f5)
-        1.  [Issue tracker set-up](#org60d5a89)
-        2.  [Data collection](#orgac37eba)
-        3.  [Data labelling](#org9bb36b7)
-        4.  [System architecture](#orgef9fc7c)
-        5.  [Network design](#orgabed2f2)
-        6.  [Network training](#org49b2ecf)
-        7.  [Network evaluation](#org99aa4b8)
-        8.  [Application development](#org2fd3299)
-        9.  [Application deployment](#org34cdf49)
-        10. [Scrum events and project management](#org235fac7)
-    3.  [Project schedule](#orgbe959a0)
+1.  [Proposal summary](#org060f92f)
+2.  [Development background](#orgd12fd14)
+3.  [Expected outcomes](#org933ee84)
+4.  [Project delivery](#org820a7e3)
+    1.  [Duration:](#orgcd37685)
+5.  [Project team](#org54ec24e)
+6.  [Project milestones](#org4f634ba)
+7.  [Project status](#orgb5810fb)
+    1.  [Scope](#orgd047274)
+        1.  [Data collection](#org52678d8)
+        2.  [Resources](#org42fb364)
+    2.  [Project events](#org13fe505)
+        1.  [Issue tracker set-up](#org886da88)
+        2.  [Data collection](#org9474183)
+        3.  [Data labelling](#org344acc2)
+        4.  [System architecture](#org8b2c85c)
+        5.  [Network design](#org70bb60f)
+        6.  [Network training](#orgccba254)
+        7.  [Network evaluation](#org0691287)
+        8.  [Application development](#orgc412a34)
+        9.  [Application deployment](#org4652abd)
+        10. [Scrum events and project management](#org4658e9e)
+    3.  [Project schedule](#org9247af2)
 
 
 
-<a id="org3a9fc64"></a>
+<a id="org060f92f"></a>
 
 # Proposal summary
 
@@ -44,7 +44,7 @@ Machine learning applies artificial intelligence (AI) to automate learning and t
 The proposed system provides an accessible and inexpensive solutions operable from the ordinary devices such as the mobile phones with a minimum/ no training period.
 
 
-<a id="org886858a"></a>
+<a id="orgd12fd14"></a>
 
 # Development background
 
@@ -57,7 +57,7 @@ Accordingly, a senior scholar in the computer science department at AUT was invi
 Since then, the team has worked on presenting the idea to the potential stakeholders form the industry. 
 
 
-<a id="orgd3c246c"></a>
+<a id="org933ee84"></a>
 
 # Expected outcomes
 
@@ -65,7 +65,7 @@ Since then, the team has worked on presenting the idea to the potential stakehol
 It can provide useful pointers and information with a contextual transferability of results to the peer domains.
 
 
-<a id="org343f3ca"></a>
+<a id="org820a7e3"></a>
 
 # Project delivery
 
@@ -76,23 +76,23 @@ It can provide useful pointers and information with a contextual transferability
 -   Hourly rate ($/hrs)
 
 
-<a id="org12068c8"></a>
+<a id="orgcd37685"></a>
 
 ## Duration:
 
 -   Weeks: 11
 
 
-<a id="orgdeb790c"></a>
+<a id="org54ec24e"></a>
 
 # Project team
 
-1.  Mani Poshdar (mani.poshdar@aut.ac.nz) - Principal Investigator
-2.  Ricardo Antunes (ricardo.antunes@aut.ac.nz) - Project Manager / Developer (Application)
-3.  Mohammad Norouzifard (mohammad.norouzifard@aut.ac.nz) - Developer (Network)
+1.  Dr. Mani Poshdar (mani.poshdar@aut.ac.nz) - Principal Investigator
+2.  Dr. Ricardo Antunes (ricardo.antunes@aut.ac.nz) - Project Manager / Developer (Application)
+3.  Dr. Mohammad Norouzifard (mohammad.norouzifard@aut.ac.nz) - Developer (Network)
 
 
-<a id="org7d05b7f"></a>
+<a id="org4f634ba"></a>
 
 # Project milestones
 
@@ -168,17 +168,17 @@ It can provide useful pointers and information with a contextual transferability
 </table>
 
 
-<a id="org76cde90"></a>
+<a id="orgb5810fb"></a>
 
 # Project status
 
 
-<a id="orgc55f11d"></a>
+<a id="orgd047274"></a>
 
 ## Scope
 
 
-<a id="org50c59fa"></a>
+<a id="org52678d8"></a>
 
 ### Data collection
 
@@ -194,7 +194,7 @@ The recording are will help the developer to prepare the required footages for t
     The accuracy of the system is expected to be inefficient on a construction scenario because of the lack pf approppriate data.
 
 
-<a id="orgcaa681d"></a>
+<a id="org42fb364"></a>
 
 ### Resources
 
@@ -245,12 +245,12 @@ The approximate installation height of the camera will be 2.20m.
 @Ricardo Please, keep in touch with Mohammad & keep the team posted on the progress and any further requirements.
 
 
-<a id="org6bbc3f5"></a>
+<a id="org13fe505"></a>
 
 ## Project events
 
 
-<a id="org60d5a89"></a>
+<a id="org886da88"></a>
 
 ### Issue tracker set-up
 
@@ -258,7 +258,7 @@ An issue tracking system is a computer software package that manages and maintai
 Issue tracking systems are generally used in collaborative settings—especially in large or distributed collaborations—but can also be employed by individuals as part of a time management or personal productivity regime.
 
 
-<a id="orgac37eba"></a>
+<a id="org9474183"></a>
 
 ### Data collection
 
@@ -266,7 +266,7 @@ Data is either images or videos where the equipment is show.
 The amount, quality and variaty of the data collected impacts had a direct impact on the system accuracy. 
 
 
-<a id="org9bb36b7"></a>
+<a id="org344acc2"></a>
 
 ### Data labelling
 
@@ -274,7 +274,7 @@ The equipment when present on the data has to be labelled.
 That means either draw a polygon around each equipment of interest on each image or frame (in the case of video) of the data collection.
 
 
-<a id="orgef9fc7c"></a>
+<a id="org8b2c85c"></a>
 
 ### System architecture
 
@@ -283,14 +283,14 @@ An architecture description is a formal description and representation of a syst
 The system architeture depends of the final form of deployment, source format, source resolution, scaliability, among other factors.
 
 
-<a id="orgabed2f2"></a>
+<a id="org70bb60f"></a>
 
 ### Network design
 
 The system may contain several networks depending of the funcionalities and system architeture.
 
 
-<a id="org49b2ecf"></a>
+<a id="orgccba254"></a>
 
 ### Network training
 
@@ -298,14 +298,14 @@ Different networks require training methods and efforts.
 Training requires preparation and sortout data and prototyping.
 
 
-<a id="org99aa4b8"></a>
+<a id="org0691287"></a>
 
 ### Network evaluation
 
 Every network should perform with sufficient accuracy.
 
 
-<a id="org2fd3299"></a>
+<a id="orgc412a34"></a>
 
 ### Application development
 
@@ -313,7 +313,7 @@ Once trained, the network should be wrapped by an application.
 That enables the end-user to utilize the system without further requirement other than those instructions presented on the screen.
 
 
-<a id="org34cdf49"></a>
+<a id="org4652abd"></a>
 
 ### Application deployment
 
@@ -321,7 +321,7 @@ The application deployment involves make the application availabe in a suitable 
 For instance, the application run stand alone on a desktop computer or online as a website or as and mobile phone application.
 
 
-<a id="org235fac7"></a>
+<a id="org4658e9e"></a>
 
 ### Scrum events and project management
 
@@ -330,7 +330,7 @@ It is designed for teams of ten or fewer members, who break their work into goal
 At the end of the sprint, the team holds sprint review, to demonstrate the work done, and sprint retrospective to continuously improve.
 
 
-<a id="orgbe959a0"></a>
+<a id="org9247af2"></a>
 
 ## Project schedule
 

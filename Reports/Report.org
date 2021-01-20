@@ -57,9 +57,9 @@ It can provide useful pointers and information with a contextual transferability
     - Hours 408
 
 * Project team
-  1. Mani Poshdar (mani.poshdar@aut.ac.nz) - Principal Investigator
-  2. Ricardo Antunes (ricardo.antunes@aut.ac.nz) - Project Manager / Developer (Application)
-  3. Mohammad Norouzifard (mohammad.norouzifard@aut.ac.nz) - Developer (Network)
+  1. Dr. Mani Poshdar (mani.poshdar@aut.ac.nz) - Principal Investigator
+  2. Dr. Ricardo Antunes (ricardo.antunes@aut.ac.nz) - Project Manager / Developer (Application)
+  3. Dr. Mohammad Norouzifard (mohammad.norouzifard@aut.ac.nz) - Developer (Network)
 
 
 * Project milestones
