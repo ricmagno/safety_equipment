@@ -79,7 +79,7 @@ It can provide useful pointers and information with a contextual transferability
 * Project status
 The current status of project is shown in table \ref{TBL:project_status_summary} 
 
-#+CAPTION: Project status summaty
+#+CAPTION: Project status summary
 #+NAME: TBL:project_status_summary
 # / #+ATTR_HTML: :height 300
 # / #+ATTR_LATEX: :height 150 
