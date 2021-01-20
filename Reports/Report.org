@@ -148,21 +148,21 @@ As discussed, it will help you to prepare the required footages for the training
 
 ** Project schedule
 
- |   | Description             | Planned Effort (h) | Actual Effort (h) | Status      | Assignment |
- |---+-------------------------+--------------------+-------------------+-------------+------------|
- | # | Issue tracker           |                  0 |                 0 | Not started |          3 |
- | # | Data collection         |                 30 |                 0 | Not started |          3 |
- | # | Data labelling          |                 50 |                 0 | Not started |          3 |
- | # | System architecture     |                 10 |                 0 | Not started |          3 |
- | # | Network design          |                 10 |                 0 | Not started |          3 |
- | # | Network training        |                 50 |                 0 | Not started |          3 |
- | # | Network evaluation      |                 20 |                 0 | Not started |          3 |
- | # | Network testing         |                 15 |                 0 | Not started |      1,2,3 |
- | # | Application development |                  0 |                 0 | Not started |          2 |
- | # | Application deployment  |                  0 |                 0 | Not started |          2 |
- | # | Scrum events            |                  0 |                 0 | Not started |            |
- |---+-------------------------+--------------------+-------------------+-------------+------------|
- | # | Total                   |                185 |                 0 | Delayed     |            |
+ |   | Description             | Planned Effort (h) | Actual Effort (h) | Status      | Assigned to |
+ |---+-------------------------+--------------------+-------------------+-------------+-------------|
+ | # | Issue tracker           |                  0 |                 0 | Not started |           3 |
+ | # | Data collection         |                 30 |                 0 | Not started |           3 |
+ | # | Data labelling          |                 50 |                 0 | Not started |           3 |
+ | # | System architecture     |                 10 |                 0 | Not started |           3 |
+ | # | Network design          |                 10 |                 0 | Not started |           3 |
+ | # | Network training        |                 50 |                 0 | Not started |           3 |
+ | # | Network evaluation      |                 20 |                 0 | Not started |           3 |
+ | # | Network testing         |                 15 |                 0 | Not started |       1,2,3 |
+ | # | Application development |                  0 |                 0 | Not started |           2 |
+ | # | Application deployment  |                  0 |                 0 | Not started |           2 |
+ | # | Scrum events            |                  0 |                 0 | On going    |           1 |
+ |---+-------------------------+--------------------+-------------------+-------------+-------------|
+ | # | Total                   |                185 |                 0 | Delayed     |             |
 
  #+TBLFM: @>$4=vsum(@I..@II)::@>$3=vsum(@I..@II)
 

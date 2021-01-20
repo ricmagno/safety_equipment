@@ -1,33 +1,33 @@
 
 # Table of Contents
 
-1.  [Proposal summary](#org6af0b5c)
-2.  [Development background](#org3233163)
-3.  [Expected outcomes](#org5871547)
-4.  [Project delivery](#orgb15f6a5)
-    1.  [Duration:](#org081ca7b)
-5.  [Project team](#org5416c6b)
-6.  [Project milestones](#org977a09a)
-7.  [Project status](#orgaf79068)
-    1.  [Scope](#org9ffe52e)
-        1.  [Data collection](#org314f601)
-        2.  [Resources](#org1b73ca3)
-    2.  [Project events](#org08e8752)
-        1.  [Issue tracker set-up](#orgda7af57)
-        2.  [Data collection](#org620dca5)
-        3.  [Data labelling](#orgfd3b648)
-        4.  [System architecture](#orge6e28b2)
-        5.  [Network design](#orgaab8cf5)
-        6.  [Network training](#org5dd0a60)
-        7.  [Network evaluation](#orge268fb3)
-        8.  [Application development](#orgb47602f)
-        9.  [Application deployment](#org79bd377)
-        10. [Scrum events and project management](#org3f66e67)
-    3.  [Project schedule](#org2479711)
+1.  [Proposal summary](#org8b40bfc)
+2.  [Development background](#org62ef5a2)
+3.  [Expected outcomes](#orgbb2c371)
+4.  [Project delivery](#orgb8f8c42)
+    1.  [Duration:](#orgaeb8868)
+5.  [Project team](#org9543fc1)
+6.  [Project milestones](#org3c73a21)
+7.  [Project status](#org340932f)
+    1.  [Scope](#orgedd7c25)
+        1.  [Data collection](#org8ebcb78)
+        2.  [Resources](#orgb9065e2)
+    2.  [Project events](#org91107af)
+        1.  [Issue tracker set-up](#org0daa532)
+        2.  [Data collection](#org4ae556a)
+        3.  [Data labelling](#org1805cbb)
+        4.  [System architecture](#orgf286754)
+        5.  [Network design](#org84f8d76)
+        6.  [Network training](#orga83abc0)
+        7.  [Network evaluation](#orgde6e1e3)
+        8.  [Application development](#org63942fd)
+        9.  [Application deployment](#org72e9f3d)
+        10. [Scrum events and project management](#orga2c537a)
+    3.  [Project schedule](#org6c52522)
 
 
 
-<a id="org6af0b5c"></a>
+<a id="org8b40bfc"></a>
 
 # Proposal summary
 
@@ -44,7 +44,7 @@ Machine learning applies artificial intelligence (AI) to automate learning and t
 The proposed system provides an accessible and inexpensive solutions operable from the ordinary devices such as the mobile phones with a minimum/ no training period.
 
 
-<a id="org3233163"></a>
+<a id="org62ef5a2"></a>
 
 # Development background
 
@@ -57,7 +57,7 @@ Accordingly, a senior scholar in the computer science department at AUT was invi
 Since then, the team has worked on presenting the idea to the potential stakeholders form the industry. 
 
 
-<a id="org5871547"></a>
+<a id="orgbb2c371"></a>
 
 # Expected outcomes
 
@@ -65,7 +65,7 @@ Since then, the team has worked on presenting the idea to the potential stakehol
 It can provide useful pointers and information with a contextual transferability of results to the peer domains.
 
 
-<a id="orgb15f6a5"></a>
+<a id="orgb8f8c42"></a>
 
 # Project delivery
 
@@ -76,14 +76,14 @@ It can provide useful pointers and information with a contextual transferability
 -   Hourly rate ($/hrs)
 
 
-<a id="org081ca7b"></a>
+<a id="orgaeb8868"></a>
 
 ## Duration:
 
 -   Weeks: 11
 
 
-<a id="org5416c6b"></a>
+<a id="org9543fc1"></a>
 
 # Project team
 
@@ -92,7 +92,7 @@ It can provide useful pointers and information with a contextual transferability
 3.  Mohammad Norouzifard (mohammad.norouzifard@aut.ac.nz) - Developer (Network)
 
 
-<a id="org977a09a"></a>
+<a id="org3c73a21"></a>
 
 # Project milestones
 
@@ -168,17 +168,17 @@ It can provide useful pointers and information with a contextual transferability
 </table>
 
 
-<a id="orgaf79068"></a>
+<a id="org340932f"></a>
 
 # Project status
 
 
-<a id="org9ffe52e"></a>
+<a id="orgedd7c25"></a>
 
 ## Scope
 
 
-<a id="org314f601"></a>
+<a id="org8ebcb78"></a>
 
 ### Data collection
 
@@ -191,7 +191,7 @@ Dr Roohollah Kalatehjari will be there to hand over the items.
 As discussed, it will help you to prepare the required footages for the training phase. We can use WZ level 1 as the recording area. Just to confirm, the final goal is to provide a prototype that detects if people are using hard hat and hi-vis at any of the entries of the laboratory area of WZ building. The approximate installation height of the camera will be 2.20m.
 
 
-<a id="org1b73ca3"></a>
+<a id="orgb9065e2"></a>
 
 ### Resources
 
@@ -242,12 +242,12 @@ The approximate installation height of the camera will be 2.20m.
 @Ricardo Please, keep in touch with Mohammad & keep the team posted on the progress and any further requirements.
 
 
-<a id="org08e8752"></a>
+<a id="org91107af"></a>
 
 ## Project events
 
 
-<a id="orgda7af57"></a>
+<a id="org0daa532"></a>
 
 ### Issue tracker set-up
 
@@ -255,7 +255,7 @@ An issue tracking system is a computer software package that manages and maintai
 Issue tracking systems are generally used in collaborative settings—especially in large or distributed collaborations—but can also be employed by individuals as part of a time management or personal productivity regime.
 
 
-<a id="org620dca5"></a>
+<a id="org4ae556a"></a>
 
 ### Data collection
 
@@ -263,7 +263,7 @@ Data is either images or videos where the equipment is show.
 The amount, quality and variaty of the data collected impacts had a direct impact on the system accuracy. 
 
 
-<a id="orgfd3b648"></a>
+<a id="org1805cbb"></a>
 
 ### Data labelling
 
@@ -271,7 +271,7 @@ The equipment when present on the data has to be labelled.
 That means either draw a polygon around each equipment of interest on each image or frame (in the case of video) of the data collection.
 
 
-<a id="orge6e28b2"></a>
+<a id="orgf286754"></a>
 
 ### System architecture
 
@@ -280,14 +280,14 @@ An architecture description is a formal description and representation of a syst
 The system architeture depends of the final form of deployment, source format, source resolution, scaliability, among other factors.
 
 
-<a id="orgaab8cf5"></a>
+<a id="org84f8d76"></a>
 
 ### Network design
 
 The system may contain several networks depending of the funcionalities and system architeture.
 
 
-<a id="org5dd0a60"></a>
+<a id="orga83abc0"></a>
 
 ### Network training
 
@@ -295,14 +295,14 @@ Different networks require training methods and efforts.
 Training requires preparation and sortout data and prototyping.
 
 
-<a id="orge268fb3"></a>
+<a id="orgde6e1e3"></a>
 
 ### Network evaluation
 
 Every network should perform with sufficient accuracy.
 
 
-<a id="orgb47602f"></a>
+<a id="org63942fd"></a>
 
 ### Application development
 
@@ -310,7 +310,7 @@ Once trained, the network should be wrapped by an application.
 That enables the end-user to utilize the system without further requirement other than those instructions presented on the screen.
 
 
-<a id="org79bd377"></a>
+<a id="org72e9f3d"></a>
 
 ### Application deployment
 
@@ -318,7 +318,7 @@ The application deployment involves make the application availabe in a suitable 
 For instance, the application run stand alone on a desktop computer or online as a website or as and mobile phone application.
 
 
-<a id="org3f66e67"></a>
+<a id="orga2c537a"></a>
 
 ### Scrum events and project management
 
@@ -327,7 +327,7 @@ It is designed for teams of ten or fewer members, who break their work into goal
 At the end of the sprint, the team holds sprint review, to demonstrate the work done, and sprint retrospective to continuously improve.
 
 
-<a id="org2479711"></a>
+<a id="org6c52522"></a>
 
 ## Project schedule
 
@@ -351,7 +351,7 @@ At the end of the sprint, the team holds sprint review, to demonstrate the work 
 <th scope="col" class="org-right">Planned Effort (h)</th>
 <th scope="col" class="org-right">Actual Effort (h)</th>
 <th scope="col" class="org-left">Status</th>
-<th scope="col" class="org-right">Assignment</th>
+<th scope="col" class="org-right">Assigned to</th>
 </tr>
 </thead>
 
@@ -450,8 +450,8 @@ At the end of the sprint, the team holds sprint review, to demonstrate the work 
 <td class="org-left">Scrum events</td>
 <td class="org-right">0</td>
 <td class="org-right">0</td>
-<td class="org-left">Not started</td>
-<td class="org-right">&#xa0;</td>
+<td class="org-left">On going</td>
+<td class="org-right">1</td>
 </tr>
 </tbody>
 
