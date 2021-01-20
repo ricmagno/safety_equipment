@@ -12,7 +12,9 @@
 
 * Proposal summary
 
-In 2013, The New Zealand Government set a target to reduce work-related fatalities and serious injuries by at least 25% in seven years. Worksafe, the country's primary workplace health and safety (H&S) regulator, has used three work-related indicators to measure the progress over this period. The latest official data released by Stats NZ indicated that despite the initial decline two out of these three indicators have bounced back in the past few years (Figure 1), where the construction industry recorded the highest number of incidents related to indicator 2 and the second highest in indicator 3.  
+In 2013, The New Zealand Government set a target to reduce work-related fatalities and serious injuries by at least 25% in seven years. 
+Worksafe, the country's primary workplace health and safety (H&S) regulator, has used three work-related indicators to measure the progress over this period. 
+The latest official data released by Stats NZ indicated that despite the initial decline two out of these three indicators have bounced back in the past few years (Figure <<fig:fig_01>>), where the construction industry recorded the highest number of incidents related to indicator 2 and the second highest in indicator 3.  
 
 #+CAPTION: Safety indicators (Source: Stats NZ from ACC claims and Ministry of Health hospitalisation)
 #+NAME: fig:fig_01
@@ -24,7 +26,8 @@ In 2013, The New Zealand Government set a target to reduce work-related fataliti
 A review of the current safety management conducts in the construction industry shows them taking stock in individual reporting and filing colossal paperwork.
 It makes their output prone to human errors originated either from mistakes or from slips and lapses of memory.
 These issues together with the potential physical loss of information present a serious flaw in the system.
-Simultaneously, companies are forced to bid with the lowest profit margins to survive in their high competitive environment. Therefore, it is a high priority for every construction company to take up an H&S compliance management solution that could balance costs, risks and governance.
+Simultaneously, companies are forced to bid with the lowest profit margins to survive in their high competitive environment. 
+Therefore, it is a high priority for every construction company to take up an H&S compliance management solution that could balance costs, risks and governance.
 This proposal aims to complete one step towards sustaining a system that combines the power of machine learning and image processing to "smartify" the risk identification and reporting at the construction sites. Image processing enables the analysis of the safety compliance based on images from the job site.
 Machine learning applies artificial intelligence (AI) to automate learning and to improve from experience without being explicitly programmed.
 The proposed system provides an accessible and inexpensive solutions operable from the ordinary devices such as the mobile phones with a minimum/ no training period.
@@ -74,6 +77,30 @@ It can provide useful pointers and information with a contextual transferability
 |                     |                     |        |                    |
 
 * Project status
+The current status of project is shown in table \ref{TBL:project_status_summary} 
+
+#+CAPTION: Project status summaty
+#+NAME: TBL:project_status_summary
+# / #+ATTR_HTML: :height 300
+# / #+ATTR_LATEX: :height 150 
+
+ |   | Description                | Assigned to | Planned Effort (h) | Actual Effort (h) | Status      | Overall |
+ |---+----------------------------+-------------+--------------------+-------------------+-------------+---------|
+ | # | Issue tracker / Repository |           3 |                  0 |                 0 | Not started | Delayed |
+ | # | Data collection            |           3 |                 30 |                 0 | Not started | Delayed |
+ | # | Data labelling             |           3 |                 50 |                 0 | Not started | Delayed |
+ | # | System architecture        |           3 |                 10 |                 0 | Not started | Delayed |
+ | # | Network design             |           3 |                 10 |                 0 | Not started | Delayed |
+ | # | Network training           |           3 |                 50 |                 0 | Not started |         |
+ | # | Network evaluation         |           3 |                 20 |                 0 | Not started |         |
+ | # | Network testing            |       1,2,3 |                 15 |                 0 | Not started |         |
+ | # | Application development    |           2 |                  0 |                 0 | Not started |         |
+ | # | Application deployment     |           2 |                  0 |                 0 | Not started |         |
+ | # | Scrum events               |           1 |                  0 |                 0 | On going    |         |
+ |---+----------------------------+-------------+--------------------+-------------------+-------------+---------|
+ | # | Total                      |          32 |                185 |                 0 | Delayed     | Delayed |
+
+ #+TBLFM: @>$4=vsum(@I..@II)::@>$3=vsum(@I..@II)
 
 ** COMMENT Scope
 
@@ -97,27 +124,6 @@ The recording are will help the developer to prepare the required footages for t
 #+TBLFM: @>$6=vsum(@I..@II)::$6=$4*$5
 
 ** COMMENT Project events
-
-** Project schedule summary
-
- |   | Description                | Assigned to | Planned Effort (h) | Actual Effort (h) | Status      | Overall |
- |---+----------------------------+-------------+--------------------+-------------------+-------------+---------|
- | # | Issue tracker / Repository |           3 |                  0 |                 0 | Not started | Delayed |
- | # | Data collection            |           3 |                 30 |                 0 | Not started | Delayed |
- | # | Data labelling             |           3 |                 50 |                 0 | Not started | Delayed |
- | # | System architecture        |           3 |                 10 |                 0 | Not started | Delayed |
- | # | Network design             |           3 |                 10 |                 0 | Not started | Delayed |
- | # | Network training           |           3 |                 50 |                 0 | Not started |         |
- | # | Network evaluation         |           3 |                 20 |                 0 | Not started |         |
- | # | Network testing            |       1,2,3 |                 15 |                 0 | Not started |         |
- | # | Application development    |           2 |                  0 |                 0 | Not started |         |
- | # | Application deployment     |           2 |                  0 |                 0 | Not started |         |
- | # | Scrum events               |           1 |                  0 |                 0 | On going    |         |
- |---+----------------------------+-------------+--------------------+-------------------+-------------+---------|
- | # | Total                      |          32 |                185 |                 0 | Delayed     | Delayed |
-
- #+TBLFM: @>$4=vsum(@I..@II)::@>$3=vsum(@I..@II)
-
 
 ** Issue tracker and code repository set-up
 *** Summary
