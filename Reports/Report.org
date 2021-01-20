@@ -79,7 +79,7 @@ It can provide useful pointers and information with a contextual transferability
 
 *** Data collection
 The data collection has been restricted to data collecteDue to project inactivity and approaching that project delivery date.
-The data will now be artificially generated using one webcam, one hard-hat and 1 hight-vizibilty jacket/vest provide by Dr Roohollah Kalatehjari on 20/01/2021.
+The data will now be artificially generated using one webcam, one hard-hat and 1 hight-vizibilty jacket/vest provide by Dr. Roohollah Kalatehjari on 20/01/2021.
 The recording area in use is WZ level 1.
 The approximate installation height of the camera will be 2.20m. 
 The recording are will help the developer to prepare the required footages for the training phase. 
@@ -88,23 +88,15 @@ The final goal is to provide a prototype that detects if people are using hard-h
 The accuracy of the system is expected to be inefficient on a construction scenario because of the lack pf approppriate data.
 
 
-*** Resources
-    Further to our phone conversations, please arrange to collect the following items from room 801 (WZ level 8) at 12 pm on Wednesday, 20 Jan 2021:
+**** Resources
+     The following resources were provided to the devoper on 20 Jan 2021:
 
- | Quantitity | Resource                        |
- |------------+---------------------------------|
- |          1 | webcam                          |
- |          1 | hard hat                        |
- |          1 | high-visibility jacket (hi-viz) |
+  | Quantitity | Resource                        |
+  |------------+---------------------------------|
+  |          1 | webcam                          |
+  |          1 | hard hat                        |
+  |          1 | high-visibility jacket (hi-viz) |
 
- Dr Roohollah Kalatehjari will be there to hand over the items.
- 
- As discussed, it will help you to prepare the required footages for the training phase.
- We can use WZ level 1 as the recording area. Just to confirm, the final goal is to provide a prototype that detects if people are using hard hat and hi-vis at any of the entries of the laboratory area of WZ building.
- The approximate installation height of the camera will be 2.20m.
- 
- @Mohammad please confirm your availability to Roo.
- @Ricardo Please, keep in touch with Mohammad & keep the team posted on the progress and any further requirements.
 ** COMMENT Resources
 |   | Description         | Model                       | Unit cost | Quantitiy | Cost |
 |---+---------------------+-----------------------------+-----------+-----------+------|
@@ -149,21 +141,21 @@ The accuracy of the system is expected to be inefficient on a construction scena
 
 ** Project schedule
 
- |   | Description             | Planned Effort (h) | Actual Effort (h) | Status      | Assigned to |
- |---+-------------------------+--------------------+-------------------+-------------+-------------|
- | # | Issue tracker           |                  0 |                 0 | Not started |           3 |
- | # | Data collection         |                 30 |                 0 | Not started |           3 |
- | # | Data labelling          |                 50 |                 0 | Not started |           3 |
- | # | System architecture     |                 10 |                 0 | Not started |           3 |
- | # | Network design          |                 10 |                 0 | Not started |           3 |
- | # | Network training        |                 50 |                 0 | Not started |           3 |
- | # | Network evaluation      |                 20 |                 0 | Not started |           3 |
- | # | Network testing         |                 15 |                 0 | Not started |       1,2,3 |
- | # | Application development |                  0 |                 0 | Not started |           2 |
- | # | Application deployment  |                  0 |                 0 | Not started |           2 |
- | # | Scrum events            |                  0 |                 0 | On going    |           1 |
- |---+-------------------------+--------------------+-------------------+-------------+-------------|
- | # | Total                   |                185 |                 0 | Delayed     |             |
+ |   | Description                | Planned Effort (h) | Actual Effort (h) | Status      | Assigned to |
+ |---+----------------------------+--------------------+-------------------+-------------+-------------|
+ | # | Issue tracker / Repository |                  0 |                 0 | Not started |           3 |
+ | # | Data collection            |                 30 |                 0 | Not started |           3 |
+ | # | Data labelling             |                 50 |                 0 | Not started |           3 |
+ | # | System architecture        |                 10 |                 0 | Not started |           3 |
+ | # | Network design             |                 10 |                 0 | Not started |           3 |
+ | # | Network training           |                 50 |                 0 | Not started |           3 |
+ | # | Network evaluation         |                 20 |                 0 | Not started |           3 |
+ | # | Network testing            |                 15 |                 0 | Not started |       1,2,3 |
+ | # | Application development    |                  0 |                 0 | Not started |           2 |
+ | # | Application deployment     |                  0 |                 0 | Not started |           2 |
+ | # | Scrum events               |                  0 |                 0 | On going    |           1 |
+ |---+----------------------------+--------------------+-------------------+-------------+-------------|
+ | # | Total                      |                185 |                 0 | Delayed     |             |
 
  #+TBLFM: @>$4=vsum(@I..@II)::@>$3=vsum(@I..@II)
 

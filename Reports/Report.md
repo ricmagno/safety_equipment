@@ -1,33 +1,32 @@
 
 # Table of Contents
 
-1.  [Proposal summary](#org060f92f)
-2.  [Development background](#orgd12fd14)
-3.  [Expected outcomes](#org933ee84)
-4.  [Project delivery](#org820a7e3)
-    1.  [Duration:](#orgcd37685)
-5.  [Project team](#org54ec24e)
-6.  [Project milestones](#org4f634ba)
-7.  [Project status](#orgb5810fb)
-    1.  [Scope](#orgd047274)
-        1.  [Data collection](#org52678d8)
-        2.  [Resources](#org42fb364)
-    2.  [Project events](#org13fe505)
-        1.  [Issue tracker set-up](#org886da88)
-        2.  [Data collection](#org9474183)
-        3.  [Data labelling](#org344acc2)
-        4.  [System architecture](#org8b2c85c)
-        5.  [Network design](#org70bb60f)
-        6.  [Network training](#orgccba254)
-        7.  [Network evaluation](#org0691287)
-        8.  [Application development](#orgc412a34)
-        9.  [Application deployment](#org4652abd)
-        10. [Scrum events and project management](#org4658e9e)
-    3.  [Project schedule](#org9247af2)
+1.  [Proposal summary](#org4d4e663)
+2.  [Development background](#org10880bb)
+3.  [Expected outcomes](#orgb015468)
+4.  [Project delivery](#org66e84bc)
+    1.  [Duration:](#org525c107)
+5.  [Project team](#org2390bd3)
+6.  [Project milestones](#org0da20a0)
+7.  [Project status](#org4b6f158)
+    1.  [Scope](#org267145d)
+        1.  [Data collection](#orgfb432d5)
+    2.  [Project events](#org9e3136a)
+        1.  [Issue tracker set-up](#org18aba7f)
+        2.  [Data collection](#orga4f1674)
+        3.  [Data labelling](#orgc16e274)
+        4.  [System architecture](#orgf934b08)
+        5.  [Network design](#org674a892)
+        6.  [Network training](#org61622a6)
+        7.  [Network evaluation](#org8f82166)
+        8.  [Application development](#orgc72491e)
+        9.  [Application deployment](#orgd530156)
+        10. [Scrum events and project management](#orga100290)
+    3.  [Project schedule](#org3771465)
 
 
 
-<a id="org060f92f"></a>
+<a id="org4d4e663"></a>
 
 # Proposal summary
 
@@ -44,7 +43,7 @@ Machine learning applies artificial intelligence (AI) to automate learning and t
 The proposed system provides an accessible and inexpensive solutions operable from the ordinary devices such as the mobile phones with a minimum/ no training period.
 
 
-<a id="orgd12fd14"></a>
+<a id="org10880bb"></a>
 
 # Development background
 
@@ -57,7 +56,7 @@ Accordingly, a senior scholar in the computer science department at AUT was invi
 Since then, the team has worked on presenting the idea to the potential stakeholders form the industry. 
 
 
-<a id="org933ee84"></a>
+<a id="orgb015468"></a>
 
 # Expected outcomes
 
@@ -65,7 +64,7 @@ Since then, the team has worked on presenting the idea to the potential stakehol
 It can provide useful pointers and information with a contextual transferability of results to the peer domains.
 
 
-<a id="org820a7e3"></a>
+<a id="org66e84bc"></a>
 
 # Project delivery
 
@@ -76,14 +75,14 @@ It can provide useful pointers and information with a contextual transferability
 -   Hourly rate ($/hrs)
 
 
-<a id="orgcd37685"></a>
+<a id="org525c107"></a>
 
 ## Duration:
 
 -   Weeks: 11
 
 
-<a id="org54ec24e"></a>
+<a id="org2390bd3"></a>
 
 # Project team
 
@@ -92,7 +91,7 @@ It can provide useful pointers and information with a contextual transferability
 3.  Dr. Mohammad Norouzifard (mohammad.norouzifard@aut.ac.nz) - Developer (Network)
 
 
-<a id="org4f634ba"></a>
+<a id="org0da20a0"></a>
 
 # Project milestones
 
@@ -168,22 +167,22 @@ It can provide useful pointers and information with a contextual transferability
 </table>
 
 
-<a id="orgb5810fb"></a>
+<a id="org4b6f158"></a>
 
 # Project status
 
 
-<a id="orgd047274"></a>
+<a id="org267145d"></a>
 
 ## Scope
 
 
-<a id="org52678d8"></a>
+<a id="orgfb432d5"></a>
 
 ### Data collection
 
 The data collection has been restricted to data collecteDue to project inactivity and approaching that project delivery date.
-The data will now be artificially generated using one webcam, one hard-hat and 1 hight-vizibilty jacket/vest provide by Dr Roohollah Kalatehjari on 20/01/2021.
+The data will now be artificially generated using one webcam, one hard-hat and 1 hight-vizibilty jacket/vest provide by Dr. Roohollah Kalatehjari on 20/01/2021.
 The recording area in use is WZ level 1.
 The approximate installation height of the camera will be 2.20m. 
 The recording are will help the developer to prepare the required footages for the training phase. 
@@ -193,64 +192,52 @@ The recording are will help the developer to prepare the required footages for t
     The final goal is to provide a prototype that detects if people are using hard-hat and high-visibility jackets/vests at any of the entries of the laboratory area of WZ building.
     The accuracy of the system is expected to be inefficient on a construction scenario because of the lack pf approppriate data.
 
+2.  Resources
 
-<a id="org42fb364"></a>
-
-### Resources
-
-Further to our phone conversations, please arrange to collect the following items from room 801 (WZ level 8) at 12 pm on Wednesday, 20 Jan 2021:
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-right" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-right">Quantitity</th>
-<th scope="col" class="org-left">Resource</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-right">1</td>
-<td class="org-left">webcam</td>
-</tr>
-
-
-<tr>
-<td class="org-right">1</td>
-<td class="org-left">hard hat</td>
-</tr>
-
-
-<tr>
-<td class="org-right">1</td>
-<td class="org-left">high-visibility jacket (hi-viz)</td>
-</tr>
-</tbody>
-</table>
-
-Dr Roohollah Kalatehjari will be there to hand over the items.
-
-As discussed, it will help you to prepare the required footages for the training phase.
-We can use WZ level 1 as the recording area. Just to confirm, the final goal is to provide a prototype that detects if people are using hard hat and hi-vis at any of the entries of the laboratory area of WZ building.
-The approximate installation height of the camera will be 2.20m.
-
-@Mohammad please confirm your availability to Roo.
-@Ricardo Please, keep in touch with Mohammad & keep the team posted on the progress and any further requirements.
+    The following resources were provided to the devoper on 20 Jan 2021:
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-right" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-right">Quantitity</th>
+    <th scope="col" class="org-left">Resource</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-right">1</td>
+    <td class="org-left">webcam</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-right">1</td>
+    <td class="org-left">hard hat</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-right">1</td>
+    <td class="org-left">high-visibility jacket (hi-viz)</td>
+    </tr>
+    </tbody>
+    </table>
 
 
-<a id="org13fe505"></a>
+<a id="org9e3136a"></a>
 
 ## Project events
 
 
-<a id="org886da88"></a>
+<a id="org18aba7f"></a>
 
 ### Issue tracker set-up
 
@@ -258,7 +245,7 @@ An issue tracking system is a computer software package that manages and maintai
 Issue tracking systems are generally used in collaborative settings—especially in large or distributed collaborations—but can also be employed by individuals as part of a time management or personal productivity regime.
 
 
-<a id="org9474183"></a>
+<a id="orga4f1674"></a>
 
 ### Data collection
 
@@ -266,7 +253,7 @@ Data is either images or videos where the equipment is show.
 The amount, quality and variaty of the data collected impacts had a direct impact on the system accuracy. 
 
 
-<a id="org344acc2"></a>
+<a id="orgc16e274"></a>
 
 ### Data labelling
 
@@ -274,7 +261,7 @@ The equipment when present on the data has to be labelled.
 That means either draw a polygon around each equipment of interest on each image or frame (in the case of video) of the data collection.
 
 
-<a id="org8b2c85c"></a>
+<a id="orgf934b08"></a>
 
 ### System architecture
 
@@ -283,14 +270,14 @@ An architecture description is a formal description and representation of a syst
 The system architeture depends of the final form of deployment, source format, source resolution, scaliability, among other factors.
 
 
-<a id="org70bb60f"></a>
+<a id="org674a892"></a>
 
 ### Network design
 
 The system may contain several networks depending of the funcionalities and system architeture.
 
 
-<a id="orgccba254"></a>
+<a id="org61622a6"></a>
 
 ### Network training
 
@@ -298,14 +285,14 @@ Different networks require training methods and efforts.
 Training requires preparation and sortout data and prototyping.
 
 
-<a id="org0691287"></a>
+<a id="org8f82166"></a>
 
 ### Network evaluation
 
 Every network should perform with sufficient accuracy.
 
 
-<a id="orgc412a34"></a>
+<a id="orgc72491e"></a>
 
 ### Application development
 
@@ -313,7 +300,7 @@ Once trained, the network should be wrapped by an application.
 That enables the end-user to utilize the system without further requirement other than those instructions presented on the screen.
 
 
-<a id="org4652abd"></a>
+<a id="orgd530156"></a>
 
 ### Application deployment
 
@@ -321,7 +308,7 @@ The application deployment involves make the application availabe in a suitable 
 For instance, the application run stand alone on a desktop computer or online as a website or as and mobile phone application.
 
 
-<a id="org4658e9e"></a>
+<a id="orga100290"></a>
 
 ### Scrum events and project management
 
@@ -330,7 +317,7 @@ It is designed for teams of ten or fewer members, who break their work into goal
 At the end of the sprint, the team holds sprint review, to demonstrate the work done, and sprint retrospective to continuously improve.
 
 
-<a id="org9247af2"></a>
+<a id="org3771465"></a>
 
 ## Project schedule
 
@@ -360,7 +347,7 @@ At the end of the sprint, the team holds sprint review, to demonstrate the work 
 
 <tbody>
 <tr>
-<td class="org-left">Issue tracker</td>
+<td class="org-left">Issue tracker / Repository</td>
 <td class="org-right">0</td>
 <td class="org-right">0</td>
 <td class="org-left">Not started</td>
