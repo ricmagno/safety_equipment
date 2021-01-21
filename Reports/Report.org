@@ -249,3 +249,9 @@ The recording are will help the developer to prepare the required footages for t
 
 ** COMMENT Taxes
     Cost values does not includes taxes.
+* Attachments
+~This document has no attacthmens~
+
+#+BEGIN_CENTER
+--- End of document ---
+#+END_CENTER
