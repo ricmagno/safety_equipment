@@ -9,7 +9,10 @@
 #+KEYWORDS:
 #+DATE: January 21, 2021
 
-
+* Project Report Status release dates
+| Issue     | Version | Date       |
+|-----------+---------+------------|
+| Report 01 | 1.00    | 21/01/2021 |
 * Proposal summary
 
 In 2013, The New Zealand Government set a target to reduce work-related fatalities and serious injuries by at least 25% in seven years. 
