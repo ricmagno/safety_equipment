@@ -60,9 +60,9 @@ It can provide useful pointers and information with a contextual transferability
     - Hours 408
 
 * Project team
-  1. Dr. Mani Poshdar (mani.poshdar@aut.ac.nz) - Principal Investigator
-  2. Dr. Ricardo Antunes (ricardo.antunes@aut.ac.nz) - Project Manager / Developer (Application)
-  3. Dr. Mohammad Norouzifard (mohammad.norouzifard@aut.ac.nz) - Developer (Network)
+  1. Dr. Mani Poshdar (mani.poshdar@aut.ac.nz) - /Principal Investigator/
+  2. Dr. Ricardo Antunes (ricardo.antunes@aut.ac.nz) - /Project Manager/ 
+  3. Dr. Mohammad Norouzifard (mohammad.norouzifard@aut.ac.nz) - /Developer/
 
 
 * Project milestones
@@ -70,6 +70,7 @@ It can provide useful pointers and information with a contextual transferability
 | Milestone           | Planned date        | Status | Actual date        |
 |---------------------+---------------------+--------+--------------------|
 | Project kick-off    | December 1st, 2020  | Done   | January 11th, 2021 |
+| Status Report 01    | Thursday 21st, 2021 | Done   | Thursday 21st, 2021                   |
 | Data colection      |                     |        |                    |
 | Data labelling      |                     |        |                    |
 | System architecture |                     |        |                    |
@@ -141,11 +142,13 @@ The recording are will help the developer to prepare the required footages for t
      The amount, quality and variaty of the data collected impacts had a direct impact on the system accuracy. 
 
 *** Status at issue of Report 01
-     The data collection has been restricted to data collecteDue to project inactivity and approaching that project delivery date.
+     The data collection has been restricted to data collecte due to project inactivity and approaching that project delivery date.
      The data will now be artificially generated using one webcam, one hard-hat and 1 hight-vizibilty jacket/vest provided by Dr. Roohollah Kalatehjari on 20/01/2021.
      The recording area in use is WZ level 1.
      The approximate installation height of the camera will be 2.20m. 
-     The recording are will help the developer to prepare the required footages for the training phase. 
+     The recording are will help the developer to prepare the required footages for the training phase.
+     
+     The /project manager/ collected 4 videos containing footage of contruction sites, uploaded and shared (https://www.dropbox.com/sh/d3uqcid7xkq8yog/AABPCOxROcyahOiHVtWs6YLNa?dl=0) with /developer/.
 
 **** Resources
     The following resources were provided to the devoper on 20 Jan 2021:
@@ -159,13 +162,11 @@ The recording are will help the developer to prepare the required footages for t
 *** Implications on project goal
      The final goal is to provide a prototype that detects if people are using hard-hat and high-visibility jackets/vests at any of the entries of the laboratory area of WZ building.
      The accuracy of the system is expected to be inefficient on a construction scenario because of the lack Of approppriate data.
-
-
 ** Data labelling
 *** Summary
     The equipment when present on the data has to be labelled.
     That means either draw a polygon around each equipment of interest on each image or frame (in the case of video) of the data collection.
-*** Status at issue on Report 01
+*** Status at issue of Report 01
      This event has not starded yet.
 ** System architecture
 *** Summary
@@ -173,14 +174,14 @@ The recording are will help the developer to prepare the required footages for t
     An architecture description is a formal description and representation of a system, organized in a way that supports reasoning about the structures and behaviors of the system.
     The system architeture depends of the final form of deployment, source format, source resolution, scaliability, among other factors.
 
-*** Status at issue on Report 01
+*** Status at issue of Report 01
      This event has not starded yet.
 
 ** Network design
 *** Summary
     The system may contain several networks depending of the funcionalities and system architeture.
 
-*** Status at issue on Report 01
+*** Status at issue of Report 01
      This event has not starded yet.
 
 ** Network training
@@ -188,36 +189,59 @@ The recording are will help the developer to prepare the required footages for t
     Different networks require training methods and efforts.
     Training requires preparation and sortout data and prototyping.
 
-*** Status at issue on Report 01
+*** Status at issue of Report 01
      This event has not starded yet.
 
 ** Network evaluation
 *** Summary
     Every network should perform with sufficient accuracy.
-*** Status at issue on Report 01
+*** Status at issue of Report 01
      This event has not starded yet.
 
 ** Application development
 *** Summary
     Once trained, the network should be wrapped by an application.
     That enables the end-user to utilize the system without further requirement other than those instructions presented on the screen.
-*** Status at issue on Report 01
+*** Status at issue of Report 01
      This event has not starded yet.
 
 ** Application deployment
 *** Summary
     The application deployment involves make the application availabe in a suitable host.
     For instance, the application run stand alone on a desktop computer or online as a website or as and mobile phone application.
-*** Status at issue on Report 01
+*** Status at issue of Report 01
      - This event has not starded yet.
 
 ** Scrum events and project management
-*** Status at issue of Report 01
+*** Summary
      - Scrum is an agile framework for developing, delivering, and sustaining complex products, with an initial emphasis on software development
     It is designed for teams of ten or fewer members, who break their work into goals that can be completed within timeboxed iterations, called sprints, no longer than one month and most commonly two weeks.
     At the end of the sprint, the team holds sprint review, to demonstrate the work done, and sprint retrospective to continuously improve.
 *** Status at issue on Report 01
-     - This event has not starded yet.
+     - Kick off meeting (11/01/20201 17:00):
+       - Participants: all project team.
+       - The /principal investigator/
+	 - explained how the project goal and structured, roles, hours and rate (NZD/hour) as per the AUT summer research proposal;
+	 - discussed the project goal.
+	 - informed about the progress report and its deadline, i.e., 'Project Status Report 01', with deadline on 21/01/2021.
+       - The /project manager/
+	 - explained the prototype for the project realized on 2018.
+	 - requested the /developer/ to submit the following information to feature on 'Project Status Report 01':
+	   - System architeture and framework;
+	   - Network design (or existent network) 
+       - The /developer/;
+	 - discussed a similar appliacion featured on AWS
+	 - denied to developed the application and its deployment (front-end).
+	   - The /project manager/ assumed the application development and deployment.
+	 - requested the data
+	   - The /project manager/ clarified that data collection is due to the /developer/ and also what kind of data the project aims to use.
+	   - The /project manager/ collected video footage. Vide Data collection section.
+	 - requested access to GPU or on cloud processing
+	   - The /project manager/ emailed the google gcloud trial that can be used for the project.
+     - Other
+       - Contacts were shared,
+
+       - The /developer/ was added to the existent #summer-research Slack channel.
 
 
 ** COMMENT Taxes
