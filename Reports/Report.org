@@ -17,7 +17,7 @@
 
 In 2013, The New Zealand Government set a target to reduce work-related fatalities and serious injuries by at least 25% in seven years. 
 Worksafe, the country's primary workplace health and safety (H&S) regulator, has used three work-related indicators to measure the progress over this period. 
-The latest official data released by Stats NZ indicated that despite the initial decline two out of these three indicators have bounced back in the past few years (Figure <<fig:fig_01>>), where the construction industry recorded the highest number of incidents related to indicator 2 and the second highest in indicator 3.  
+The latest official data released by Stats NZ indicated that despite the initial decline two out of these three indicators have bounced back in the past few years (Figure 1 <<fig:fig_01>>), where the construction industry recorded the highest number of incidents related to indicator 2 and the second highest in indicator 3.  
 
 #+CAPTION: Safety indicators (Source: Stats NZ from ACC claims and Ministry of Health hospitalisation)
 #+NAME: fig:fig_01
@@ -31,14 +31,21 @@ It makes their output prone to human errors originated either from mistakes or f
 These issues together with the potential physical loss of information present a serious flaw in the system.
 Simultaneously, companies are forced to bid with the lowest profit margins to survive in their high competitive environment. 
 Therefore, it is a high priority for every construction company to take up an H&S compliance management solution that could balance costs, risks and governance.
-This proposal aims to complete one step towards sustaining a system that combines the power of machine learning and image processing to "smartify" the risk identification and reporting at the construction sites. Image processing enables the analysis of the safety compliance based on images from the job site.
+This proposal aims to complete one step towards sustaining a system that combines the power of machine learning and image processing to ``smartify'' the risk identification and reporting at the construction sites. Image processing enables the analysis of the safety compliance based on images from the job site.
 Machine learning applies artificial intelligence (AI) to automate learning and to improve from experience without being explicitly programmed.
-The proposed system provides an accessible and inexpensive solutions operable from the ordinary devices such as the mobile phones with a minimum/ no training period.
+The proposed system provides an accessible and inexpensive solutions operable from the ordinary devices such as the mobile phones with a minimum no training period.
+
+#+CAPTION: Application prototype 
+#+NAME: fig:fig_02
+#+ATTR_HTML: :height 600
+#+ATTR_LATEX: :height 300 
+[[./Images/fig_02.png]]
+
 
 * Development background
 
 This research presents a novel idea in the field of construction H&S that was initiated by two early-carrier researchers of the Built Environment Engineering department at AUT. It was elaborated further by taking to an external industrial project manager.
-The team completed an initial feasibility assessment by testing the capability of the combination of Image processing and machine learning in a particular case (figure 2).
+The team completed an initial feasibility assessment by testing the capability of the combination of Image processing and machine learning in a particular case (Figure 2).
 Next, the idea was presented to BRANZ, a major player of research, testing, and consulting in the New Zealand building industry at two steps.
 In the first step, a senior scientist of the company investigated the idea, who brought it to the attention of their investment manager.
 The second step involved rationalising the definition of a research project based on the proposed idea for the funders. As a result, the team was encouraged to apply for an out of cycle funding subject to providing a proof of concept in the industrial context.
@@ -52,10 +59,10 @@ It can provide useful pointers and information with a contextual transferability
 
 * Project delivery
    - Febrary 15th, 2021
-   - Required resources (equipment)
+   # - Required resources (equipment)
    - Schedule of the project delivery: The project period is December 1st, 2020 to February 15th, 2021
-   - Estimated total number of hours for delivery of each phase of the project
-   - Hourly rate ($/hrs)
+   - Estimated total number of hours for delivery of the project 250 hours.
+   # - Hourly rate ($/hrs)
 ** Duration:
    - Weeks: 11
 *** COMMENT Days
@@ -74,23 +81,20 @@ It can provide useful pointers and information with a contextual transferability
 |---------------------+---------------------+--------+--------------------|
 | Project kick-off    | December 1st, 2020  | Done   | January 11th, 2021 |
 | Status Report 01    | Thursday 21st, 2021 | Done   | Thursday 21st, 2021                   |
-| Data colection      |                     |        |                    |
-| Data labelling      |                     |        |                    |
-| System architecture |                     |        |                    |
 | Project delivery    | February 15th, 2021 |        |                    |
-|                     |                     |        |                    |
+
 
 * Project status
-The current status of project is shown in table \ref{TBL:project_status_summary} 
+  The current status of project is shown in the table bellow.
+ # \ref{TBL:project_status_summary}  
 
 #+CAPTION: Project status summary
 #+NAME: TBL:project_status_summary
 # / #+ATTR_HTML: :height 300
 # / #+ATTR_LATEX: :height 150 
-
  |   | Description                | Assigned to | Planned Effort (h) | Actual Effort (h) | Status      | Overall |
  |---+----------------------------+-------------+--------------------+-------------------+-------------+---------|
- | # | Issue tracker / Repository |           3 |                  0 |                 0 | Not started | Delayed |
+ | # | Issue tracker / repository |           3 |                  0 |                 0 | Not started | Delayed |
  | # | Data collection            |           3 |                 30 |                 0 | Not started | Delayed |
  | # | Data labelling             |           3 |                 50 |                 0 | Not started | Delayed |
  | # | System architecture        |           3 |                 10 |                 0 | Not started | Delayed |
@@ -136,7 +140,7 @@ The recording are will help the developer to prepare the required footages for t
 
 - Github ([[http://www.github.com]]) is the intended repository for the project. 
 *** Status at the issue of Report 01.
-- The issue tracking system and code repository has not been set by the responsible.
+     - The issue tracking system and code repository has not been set by the responsible.
     
 ** Data collection
 
@@ -170,7 +174,7 @@ The recording are will help the developer to prepare the required footages for t
     The equipment when present on the data has to be labelled.
     That means either draw a polygon around each equipment of interest on each image or frame (in the case of video) of the data collection.
 *** Status at issue of Report 01
-     This event has not starded yet.
+     - This event has not starded yet.
 ** System architecture
 *** Summary
     The system architecture is the conceptual model that defines the structure, behavior, and more views of a system.
@@ -178,14 +182,14 @@ The recording are will help the developer to prepare the required footages for t
     The system architeture depends of the final form of deployment, source format, source resolution, scaliability, among other factors.
 
 *** Status at issue of Report 01
-     This event has not starded yet.
+     - This event has not starded yet.
 
 ** Network design
 *** Summary
     The system may contain several networks depending of the funcionalities and system architeture.
 
 *** Status at issue of Report 01
-     This event has not starded yet.
+     - This event has not starded yet.
 
 ** Network training
 *** Summary
@@ -193,20 +197,20 @@ The recording are will help the developer to prepare the required footages for t
     Training requires preparation and sortout data and prototyping.
 
 *** Status at issue of Report 01
-     This event has not starded yet.
+     - This event has not starded yet.
 
 ** Network evaluation
 *** Summary
     Every network should perform with sufficient accuracy.
 *** Status at issue of Report 01
-     This event has not starded yet.
+     - This event has not starded yet.
 
 ** Application development
 *** Summary
     Once trained, the network should be wrapped by an application.
     That enables the end-user to utilize the system without further requirement other than those instructions presented on the screen.
 *** Status at issue of Report 01
-     This event has not starded yet.
+     - This event has not starded yet.
 
 ** Application deployment
 *** Summary
@@ -245,6 +249,14 @@ The recording are will help the developer to prepare the required footages for t
        - Contacts were shared,
 
        - The /developer/ was added to the existent #summer-research Slack channel.
+
+** Final comments
+*** Report 01
+The project has shown no progress.
+That is troublesome because the raw protype delevoped with mobile application has been completed in 15 days.
+The scope has been reduced and simplified to use restricted data.
+Thus, the project application in construction, as intended, might compromised.
+And despite the scope reduction and project simplification regarding dala collection the /developer/ has not report work advancement.
 
 
 ** COMMENT Taxes

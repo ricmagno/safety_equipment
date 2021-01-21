@@ -1,55 +1,91 @@
 
 # Table of Contents
 
-1.  [Proposal summary](#org3cc116a)
-2.  [Development background](#org6f61ea0)
-3.  [Expected outcomes](#org36e24c0)
-4.  [Project delivery](#org0f8f491)
-    1.  [Duration:](#org73c5e73)
-5.  [Project team](#orgd991b65)
-6.  [Project milestones](#orgd44fece)
-7.  [Project status](#orgfcd1f94)
-    1.  [Issue tracker and code repository set-up](#orgd39c42d)
-        1.  [Summary](#org5c77141)
-        2.  [Status at the issue of Report 01.](#orgabee43f)
-    2.  [Data collection](#orgb1fcb2d)
-        1.  [Summary](#org35d1e1b)
-        2.  [Status at issue of Report 01](#orgdacfe14)
-        3.  [Implications on project goal](#orgcfa902e)
-    3.  [Data labelling](#orge899ad2)
-        1.  [Summary](#org6c87122)
-        2.  [Status at issue of Report 01](#orgadd11e9)
-    4.  [System architecture](#orga462e4c)
-        1.  [Summary](#org09fc2ec)
-        2.  [Status at issue of Report 01](#org5da847b)
-    5.  [Network design](#orge10f91e)
-        1.  [Summary](#org30628b6)
-        2.  [Status at issue of Report 01](#org8f66b2a)
-    6.  [Network training](#org454156f)
-        1.  [Summary](#orgf9dca08)
-        2.  [Status at issue of Report 01](#org9f31047)
-    7.  [Network evaluation](#orga6b135c)
-        1.  [Summary](#org61dc8c1)
-        2.  [Status at issue of Report 01](#orge3067fb)
-    8.  [Application development](#orgc336dc5)
-        1.  [Summary](#orgb0611d6)
-        2.  [Status at issue of Report 01](#org3cce64f)
-    9.  [Application deployment](#orga26666b)
-        1.  [Summary](#orgac7c0a5)
-        2.  [Status at issue of Report 01](#org28125a0)
-    10. [Scrum events and project management](#org13f8889)
-        1.  [Summary](#org2545302)
-        2.  [Status at issue on Report 01](#orgf8255dd)
+1.  [Project Report Status release dates](#org06b4680)
+2.  [Proposal summary](#orgbf6d90a)
+3.  [Development background](#org2c06021)
+4.  [Expected outcomes](#orgb7b3ea4)
+5.  [Project delivery](#org9e074f9)
+    1.  [Duration:](#org11f7433)
+6.  [Project team](#orgbd30eac)
+7.  [Project milestones](#org3c94ef0)
+8.  [Project status](#orgc7317bd)
+    1.  [Issue tracker and code repository set-up](#org1d42662)
+        1.  [Summary](#org6bb8543)
+        2.  [Status at the issue of Report 01.](#org6b695c1)
+    2.  [Data collection](#org4e8c1d4)
+        1.  [Summary](#org30e0c89)
+        2.  [Status at issue of Report 01](#org1263f99)
+        3.  [Implications on project goal](#org277056b)
+    3.  [Data labelling](#org8629c3c)
+        1.  [Summary](#org032c7c1)
+        2.  [Status at issue of Report 01](#org5c3f8e9)
+    4.  [System architecture](#org2a47cf8)
+        1.  [Summary](#org96ad755)
+        2.  [Status at issue of Report 01](#org48c27bb)
+    5.  [Network design](#org9b623a9)
+        1.  [Summary](#org9508856)
+        2.  [Status at issue of Report 01](#orgbc97ca0)
+    6.  [Network training](#org9490b11)
+        1.  [Summary](#org2be15c9)
+        2.  [Status at issue of Report 01](#orgbed7377)
+    7.  [Network evaluation](#org686405d)
+        1.  [Summary](#orga5d043d)
+        2.  [Status at issue of Report 01](#orge403fee)
+    8.  [Application development](#orgf978e45)
+        1.  [Summary](#orgabec843)
+        2.  [Status at issue of Report 01](#orgeec811e)
+    9.  [Application deployment](#org571f1b4)
+        1.  [Summary](#org09b4831)
+        2.  [Status at issue of Report 01](#org5a4f29f)
+    10. [Scrum events and project management](#org0db1a18)
+        1.  [Summary](#org1635bb6)
+        2.  [Status at issue on Report 01](#org335aa6e)
+    11. [Final comments](#org9ec75b5)
+        1.  [Report 01](#org98b7ce9)
+9.  [Attachments](#org2558314)
 
 
 
-<a id="org3cc116a"></a>
+<a id="org06b4680"></a>
+
+# Project Report Status release dates
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Issue</th>
+<th scope="col" class="org-right">Version</th>
+<th scope="col" class="org-left">Date</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Report 01</td>
+<td class="org-right">1.00</td>
+<td class="org-left">21/01/2021</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="orgbf6d90a"></a>
 
 # Proposal summary
 
 In 2013, The New Zealand Government set a target to reduce work-related fatalities and serious injuries by at least 25% in seven years. 
 Worksafe, the country's primary workplace health and safety (H&S) regulator, has used three work-related indicators to measure the progress over this period. 
-The latest official data released by Stats NZ indicated that despite the initial decline two out of these three indicators have bounced back in the past few years (Figure <a id="orgbc0d604"></a>), where the construction industry recorded the highest number of incidents related to indicator 2 and the second highest in indicator 3.  
+The latest official data released by Stats NZ indicated that despite the initial decline two out of these three indicators have bounced back in the past few years (Figure 1 <a id="org97732bf"></a>), where the construction industry recorded the highest number of incidents related to indicator 2 and the second highest in indicator 3.  
 
 ![img](./Images/fig_01.png "Safety indicators (Source: Stats NZ from ACC claims and Ministry of Health hospitalisation)")
 
@@ -58,17 +94,19 @@ It makes their output prone to human errors originated either from mistakes or f
 These issues together with the potential physical loss of information present a serious flaw in the system.
 Simultaneously, companies are forced to bid with the lowest profit margins to survive in their high competitive environment. 
 Therefore, it is a high priority for every construction company to take up an H&S compliance management solution that could balance costs, risks and governance.
-This proposal aims to complete one step towards sustaining a system that combines the power of machine learning and image processing to "smartify" the risk identification and reporting at the construction sites. Image processing enables the analysis of the safety compliance based on images from the job site.
+This proposal aims to complete one step towards sustaining a system that combines the power of machine learning and image processing to \`\`smartify'' the risk identification and reporting at the construction sites. Image processing enables the analysis of the safety compliance based on images from the job site.
 Machine learning applies artificial intelligence (AI) to automate learning and to improve from experience without being explicitly programmed.
-The proposed system provides an accessible and inexpensive solutions operable from the ordinary devices such as the mobile phones with a minimum/ no training period.
+The proposed system provides an accessible and inexpensive solutions operable from the ordinary devices such as the mobile phones with a minimum no training period.
+
+![img](./Images/fig_02.png "Application prototype")
 
 
-<a id="org6f61ea0"></a>
+<a id="org2c06021"></a>
 
 # Development background
 
 This research presents a novel idea in the field of construction H&S that was initiated by two early-carrier researchers of the Built Environment Engineering department at AUT. It was elaborated further by taking to an external industrial project manager.
-The team completed an initial feasibility assessment by testing the capability of the combination of Image processing and machine learning in a particular case (figure 2).
+The team completed an initial feasibility assessment by testing the capability of the combination of Image processing and machine learning in a particular case (Figure 2).
 Next, the idea was presented to BRANZ, a major player of research, testing, and consulting in the New Zealand building industry at two steps.
 In the first step, a senior scientist of the company investigated the idea, who brought it to the attention of their investment manager.
 The second step involved rationalising the definition of a research project based on the proposed idea for the funders. As a result, the team was encouraged to apply for an out of cycle funding subject to providing a proof of concept in the industrial context.
@@ -76,7 +114,7 @@ Accordingly, a senior scholar in the computer science department at AUT was invi
 Since then, the team has worked on presenting the idea to the potential stakeholders form the industry. 
 
 
-<a id="org36e24c0"></a>
+<a id="orgb7b3ea4"></a>
 
 # Expected outcomes
 
@@ -84,25 +122,24 @@ Since then, the team has worked on presenting the idea to the potential stakehol
 It can provide useful pointers and information with a contextual transferability of results to the peer domains.
 
 
-<a id="org0f8f491"></a>
+<a id="org9e074f9"></a>
 
 # Project delivery
 
 -   Febrary 15th, 2021
--   Required resources (equipment)
+
 -   Schedule of the project delivery: The project period is December 1st, 2020 to February 15th, 2021
--   Estimated total number of hours for delivery of each phase of the project
--   Hourly rate ($/hrs)
+-   Estimated total number of hours for delivery of the project 250 hours.
 
 
-<a id="org73c5e73"></a>
+<a id="org11f7433"></a>
 
 ## Duration:
 
 -   Weeks: 11
 
 
-<a id="orgd991b65"></a>
+<a id="orgbd30eac"></a>
 
 # Project team
 
@@ -111,7 +148,7 @@ It can provide useful pointers and information with a contextual transferability
 3.  Dr. Mohammad Norouzifard (mohammad.norouzifard@aut.ac.nz) - *Developer*
 
 
-<a id="orgd44fece"></a>
+<a id="org3c94ef0"></a>
 
 # Project milestones
 
@@ -154,40 +191,8 @@ It can provide useful pointers and information with a contextual transferability
 
 
 <tr>
-<td class="org-left">Data colection</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Data labelling</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">System architecture</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
 <td class="org-left">Project delivery</td>
 <td class="org-left">February 15th, 2021</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -195,11 +200,11 @@ It can provide useful pointers and information with a contextual transferability
 </table>
 
 
-<a id="orgfcd1f94"></a>
+<a id="orgc7317bd"></a>
 
 # Project status
 
-The current status of project is shown in table \ref{TBL:project_status_summary} 
+The current status of project is shown in the table bellow.
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -230,7 +235,7 @@ The current status of project is shown in table \ref{TBL:project_status_summary}
 
 <tbody>
 <tr>
-<td class="org-left">Issue tracker / Repository</td>
+<td class="org-left">Issue tracker / repository</td>
 <td class="org-right">3</td>
 <td class="org-right">0</td>
 <td class="org-right">0</td>
@@ -352,12 +357,12 @@ The current status of project is shown in table \ref{TBL:project_status_summary}
 </table>
 
 
-<a id="orgd39c42d"></a>
+<a id="org1d42662"></a>
 
 ## Issue tracker and code repository set-up
 
 
-<a id="org5c77141"></a>
+<a id="org6bb8543"></a>
 
 ### Summary
 
@@ -367,19 +372,19 @@ Issue tracking systems are generally used in collaborative settings—especially
 -   Github (<http://www.github.com>) is the intended repository for the project.
 
 
-<a id="orgabee43f"></a>
+<a id="org6b695c1"></a>
 
 ### Status at the issue of Report 01.
 
 -   The issue tracking system and code repository has not been set by the responsible.
 
 
-<a id="orgb1fcb2d"></a>
+<a id="org4e8c1d4"></a>
 
 ## Data collection
 
 
-<a id="org35d1e1b"></a>
+<a id="org30e0c89"></a>
 
 ### Summary
 
@@ -387,7 +392,7 @@ Data is either images or videos where the equipment is show.
 The amount, quality and variaty of the data collected impacts had a direct impact on the system accuracy. 
 
 
-<a id="orgdacfe14"></a>
+<a id="org1263f99"></a>
 
 ### Status at issue of Report 01
 
@@ -439,7 +444,7 @@ The *project manager* collected 4 videos containing footage of contruction sites
     </table>
 
 
-<a id="orgcfa902e"></a>
+<a id="org277056b"></a>
 
 ### Implications on project goal
 
@@ -447,12 +452,12 @@ The final goal is to provide a prototype that detects if people are using hard-h
 The accuracy of the system is expected to be inefficient on a construction scenario because of the lack Of approppriate data.
 
 
-<a id="orge899ad2"></a>
+<a id="org8629c3c"></a>
 
 ## Data labelling
 
 
-<a id="org6c87122"></a>
+<a id="org032c7c1"></a>
 
 ### Summary
 
@@ -460,19 +465,19 @@ The equipment when present on the data has to be labelled.
 That means either draw a polygon around each equipment of interest on each image or frame (in the case of video) of the data collection.
 
 
-<a id="orgadd11e9"></a>
+<a id="org5c3f8e9"></a>
 
 ### Status at issue of Report 01
 
-This event has not starded yet.
+-   This event has not starded yet.
 
 
-<a id="orga462e4c"></a>
+<a id="org2a47cf8"></a>
 
 ## System architecture
 
 
-<a id="org09fc2ec"></a>
+<a id="org96ad755"></a>
 
 ### Summary
 
@@ -481,38 +486,38 @@ An architecture description is a formal description and representation of a syst
 The system architeture depends of the final form of deployment, source format, source resolution, scaliability, among other factors.
 
 
-<a id="org5da847b"></a>
+<a id="org48c27bb"></a>
 
 ### Status at issue of Report 01
 
-This event has not starded yet.
+-   This event has not starded yet.
 
 
-<a id="orge10f91e"></a>
+<a id="org9b623a9"></a>
 
 ## Network design
 
 
-<a id="org30628b6"></a>
+<a id="org9508856"></a>
 
 ### Summary
 
 The system may contain several networks depending of the funcionalities and system architeture.
 
 
-<a id="org8f66b2a"></a>
+<a id="orgbc97ca0"></a>
 
 ### Status at issue of Report 01
 
-This event has not starded yet.
+-   This event has not starded yet.
 
 
-<a id="org454156f"></a>
+<a id="org9490b11"></a>
 
 ## Network training
 
 
-<a id="orgf9dca08"></a>
+<a id="org2be15c9"></a>
 
 ### Summary
 
@@ -520,38 +525,38 @@ Different networks require training methods and efforts.
 Training requires preparation and sortout data and prototyping.
 
 
-<a id="org9f31047"></a>
+<a id="orgbed7377"></a>
 
 ### Status at issue of Report 01
 
-This event has not starded yet.
+-   This event has not starded yet.
 
 
-<a id="orga6b135c"></a>
+<a id="org686405d"></a>
 
 ## Network evaluation
 
 
-<a id="org61dc8c1"></a>
+<a id="orga5d043d"></a>
 
 ### Summary
 
 Every network should perform with sufficient accuracy.
 
 
-<a id="orge3067fb"></a>
+<a id="orge403fee"></a>
 
 ### Status at issue of Report 01
 
-This event has not starded yet.
+-   This event has not starded yet.
 
 
-<a id="orgc336dc5"></a>
+<a id="orgf978e45"></a>
 
 ## Application development
 
 
-<a id="orgb0611d6"></a>
+<a id="orgabec843"></a>
 
 ### Summary
 
@@ -559,19 +564,19 @@ Once trained, the network should be wrapped by an application.
 That enables the end-user to utilize the system without further requirement other than those instructions presented on the screen.
 
 
-<a id="org3cce64f"></a>
+<a id="orgeec811e"></a>
 
 ### Status at issue of Report 01
 
-This event has not starded yet.
+-   This event has not starded yet.
 
 
-<a id="orga26666b"></a>
+<a id="org571f1b4"></a>
 
 ## Application deployment
 
 
-<a id="orgac7c0a5"></a>
+<a id="org09b4831"></a>
 
 ### Summary
 
@@ -579,19 +584,19 @@ The application deployment involves make the application availabe in a suitable 
 For instance, the application run stand alone on a desktop computer or online as a website or as and mobile phone application.
 
 
-<a id="org28125a0"></a>
+<a id="org5a4f29f"></a>
 
 ### Status at issue of Report 01
 
 -   This event has not starded yet.
 
 
-<a id="org13f8889"></a>
+<a id="org0db1a18"></a>
 
 ## Scrum events and project management
 
 
-<a id="org2545302"></a>
+<a id="org1635bb6"></a>
 
 ### Summary
 
@@ -601,7 +606,7 @@ It is designed for teams of ten or fewer members, who break their work into goal
 At the end of the sprint, the team holds sprint review, to demonstrate the work done, and sprint retrospective to continuously improve.
 
 
-<a id="orgf8255dd"></a>
+<a id="org335aa6e"></a>
 
 ### Status at issue on Report 01
 
@@ -629,4 +634,31 @@ At the end of the sprint, the team holds sprint review, to demonstrate the work 
     -   Contacts were shared,
     
     -   The *developer* was added to the existent #summer-research Slack channel.
+
+
+<a id="org9ec75b5"></a>
+
+## Final comments
+
+
+<a id="org98b7ce9"></a>
+
+### Report 01
+
+The project has shown no progress.
+That is troublesome because the raw protype delevoped with mobile application has been completed in 15 days.
+The scope has been reduced and simplified to use restricted data.
+Thus, the project application in construction, as intended, might compromised.
+And despite the scope reduction and project simplification regarding dala collection the *developer* has not report work advancement.
+
+
+<a id="org2558314"></a>
+
+# Attachments
+
+`This document has no attacthmens`
+
+<div class="org-center">
+&#x2014; End of document &#x2014;
+</div>
 
