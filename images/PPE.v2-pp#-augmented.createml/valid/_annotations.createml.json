@@ -1,0 +1,2383 @@
+[
+    {
+        "image": "CQ-M6099-2_jpg.rf.4dc1e83faccc87601a82e3edbbe273ed.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 220.5,
+                    "y": 23,
+                    "width": 80.5,
+                    "height": 44
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 216,
+                    "y": 202.5,
+                    "width": 133,
+                    "height": 79.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "a0463f1dbe3d2c48e2013df526f57d6b_jpg.rf.3c0ed171b7bfbc68dda522b48b47bb47.jpg",
+        "annotations": [
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 225.5,
+                    "y": 112.5,
+                    "width": 104.5,
+                    "height": 78.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 232.5,
+                    "y": 31.5,
+                    "width": 59,
+                    "height": 22.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "builder_jpg.rf.00a6ac644ba9e5dcf2415b3b9c05309a.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 208,
+                    "y": 37,
+                    "width": 54,
+                    "height": 67.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images49_jpg.rf.19d1ff9ef7906d2e3e0bf309b1cf8683.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 224.5,
+                    "y": 34,
+                    "width": 115.5,
+                    "height": 55.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "70576204-handsome-construction-worker-building-brick-wall_jpg.rf.6a6caea8f643060afe49c353ee6df4fa.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 229,
+                    "y": 53,
+                    "width": 85,
+                    "height": 90
+                }
+            }
+        ]
+    },
+    {
+        "image": "images180_jpg.rf.04685e195573ae4cb7bc350e420e78c1.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 184.5,
+                    "y": 130,
+                    "width": 33.5,
+                    "height": 42
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 312.5,
+                    "y": 52,
+                    "width": 43,
+                    "height": 54.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 333,
+                    "y": 226.5,
+                    "width": 88.5,
+                    "height": 275
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 174.5,
+                    "y": 259,
+                    "width": 66.5,
+                    "height": 156
+                }
+            }
+        ]
+    },
+    {
+        "image": "images59_jpg.rf.60917109effbe053aac065f753c42365.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 34,
+                    "y": 113.5,
+                    "width": 38,
+                    "height": 32
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 55,
+                    "y": 110.5,
+                    "width": 32,
+                    "height": 34
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 77,
+                    "y": 137.5,
+                    "width": 24,
+                    "height": 25
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 111,
+                    "y": 143,
+                    "width": 25.5,
+                    "height": 32
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 173,
+                    "y": 134,
+                    "width": 25.5,
+                    "height": 32
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 233.5,
+                    "y": 104.5,
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 331.5,
+                    "y": 132,
+                    "width": 30.5,
+                    "height": 36.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 25,
+                    "y": 219.5,
+                    "width": 47,
+                    "height": 120.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 53.5,
+                    "y": 215,
+                    "width": 25.5,
+                    "height": 116
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 75,
+                    "y": 218,
+                    "width": 22.5,
+                    "height": 100
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 108,
+                    "y": 229.5,
+                    "width": 47,
+                    "height": 109
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 176,
+                    "y": 217,
+                    "width": 53,
+                    "height": 97.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images136_jpg.rf.6bba8d3cc23eec58118ec6ccbee26352.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 275.5,
+                    "y": 123,
+                    "width": 48,
+                    "height": 48.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 269.5,
+                    "y": 299,
+                    "width": 110.5,
+                    "height": 197.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "image48_jpeg.rf.26132472afb4650ab9cfe43632a756c6.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 131.5,
+                    "y": 27.5,
+                    "width": 84.5,
+                    "height": 54.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 366,
+                    "y": 66,
+                    "width": 33.5,
+                    "height": 50
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 344,
+                    "y": 132,
+                    "width": 65,
+                    "height": 118
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 72.5,
+                    "y": 249,
+                    "width": 145,
+                    "height": 329.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images66_jpg.rf.4b2353301d3d7ac387459d02a877f895.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 130,
+                    "y": 22.5,
+                    "width": 112,
+                    "height": 41
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 148,
+                    "y": 238.5,
+                    "width": 196.5,
+                    "height": 332
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 341,
+                    "y": 273,
+                    "width": 146.5,
+                    "height": 268
+                }
+            }
+        ]
+    },
+    {
+        "image": "images229_jpg.rf.0aa54c31994fec664b9bac4eac167cfe.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 220,
+                    "y": 171,
+                    "width": 59.5,
+                    "height": 96.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 304.5,
+                    "y": 113,
+                    "width": 69,
+                    "height": 76.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "construction-worker1_grande_jpg.rf.29810128cf7d0653a7ec64856ca969fa.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 207.5,
+                    "y": 35.5,
+                    "width": 104.5,
+                    "height": 65
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 216.5,
+                    "y": 251,
+                    "width": 134,
+                    "height": 248
+                }
+            }
+        ]
+    },
+    {
+        "image": "1124677415_jpg.rf.64bf98af635f8512994665f745364242.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 212.5,
+                    "y": 44,
+                    "width": 73.5,
+                    "height": 64.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 207.5,
+                    "y": 244.5,
+                    "width": 122.5,
+                    "height": 223.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "3-8-18-save-the-life-of-a-construction-worker_jpg.rf.50f5a89d18fe9d9eb4b6d221d17a8e31.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 125.5,
+                    "y": 99,
+                    "width": 18.5,
+                    "height": 25
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 171.5,
+                    "y": 102.5,
+                    "width": 15.5,
+                    "height": 24.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 217.5,
+                    "y": 102.5,
+                    "width": 14.5,
+                    "height": 20
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 237.5,
+                    "y": 112,
+                    "width": 18.5,
+                    "height": 31
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 271,
+                    "y": 105.5,
+                    "width": 18.5,
+                    "height": 36.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 313.5,
+                    "y": 97,
+                    "width": 17,
+                    "height": 27.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 403,
+                    "y": 179,
+                    "width": 11,
+                    "height": 23.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 221.5,
+                    "y": 37,
+                    "width": 1.5,
+                    "height": 2.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 339.5,
+                    "y": 119,
+                    "width": 3.5,
+                    "height": 6
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 359,
+                    "y": 122,
+                    "width": 3,
+                    "height": 3.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 127,
+                    "y": 185,
+                    "width": 36,
+                    "height": 94.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 171,
+                    "y": 178.5,
+                    "width": 32,
+                    "height": 85
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 219.5,
+                    "y": 182.5,
+                    "width": 45,
+                    "height": 77
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 262.5,
+                    "y": 186,
+                    "width": 36.5,
+                    "height": 99.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 313.5,
+                    "y": 182,
+                    "width": 28,
+                    "height": 107.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 328,
+                    "y": 143.5,
+                    "width": 7.5,
+                    "height": 30.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 339.5,
+                    "y": 132.5,
+                    "width": 4,
+                    "height": 17.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 221.5,
+                    "y": 47,
+                    "width": 3.5,
+                    "height": 12
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 391.5,
+                    "y": 192,
+                    "width": 20.5,
+                    "height": 27
+                }
+            }
+        ]
+    },
+    {
+        "image": "13b4a6a0-1d2e-4200-9806-423efc5d6b6f-640-360_jpg.rf.64d2cd3d3fa8fdaf342b676bbf7d3db2.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 210,
+                    "y": 30,
+                    "width": 209.5,
+                    "height": 58
+                }
+            }
+        ]
+    },
+    {
+        "image": "01---Older-worker_ENRready_jpg.rf.08af9810c816211cb1a04100e1c5c1fe.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 218,
+                    "y": 98,
+                    "width": 94.5,
+                    "height": 102
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 333.5,
+                    "y": 82.5,
+                    "width": 51.5,
+                    "height": 51.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 214,
+                    "y": 314.5,
+                    "width": 179.5,
+                    "height": 202
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 337.5,
+                    "y": 195,
+                    "width": 67.5,
+                    "height": 97.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "71U20ZUcT2BL-_SL1500__jpg.rf.2654e01d00f4c67e13573818c2a8e7c5.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 215.5,
+                    "y": 41,
+                    "width": 89.5,
+                    "height": 61
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 216.5,
+                    "y": 242,
+                    "width": 130,
+                    "height": 225
+                }
+            }
+        ]
+    },
+    {
+        "image": "Factory-workers-748x421_jpg.rf.279f6e0e0721259124200f6c1cb468d6.jpg",
+        "annotations": [
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 259.5,
+                    "y": 56,
+                    "width": 90.5,
+                    "height": 111.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images159_jpg.rf.314eb6ab2ca8ddda9cb799ffef5d099e.jpg",
+        "annotations": [
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 129.5,
+                    "y": 294.5,
+                    "width": 128.5,
+                    "height": 238.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 130,
+                    "y": 83,
+                    "width": 63.5,
+                    "height": 61.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images167_jpg.rf.68e5e54133b6669a83a71b29a78522e5.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 200.5,
+                    "y": 158,
+                    "width": 12,
+                    "height": 18
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 201.5,
+                    "y": 201.5,
+                    "width": 19,
+                    "height": 49
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 139.5,
+                    "y": 331.5,
+                    "width": 35,
+                    "height": 51.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 282,
+                    "y": 353,
+                    "width": 45.5,
+                    "height": 90
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 156.5,
+                    "y": 199,
+                    "width": 17.5,
+                    "height": 43.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images57_jpg.rf.3eec3c06580cc8d59012a8db125174f1.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 148,
+                    "y": 39.5,
+                    "width": 41,
+                    "height": 67.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 217.5,
+                    "y": 83.5,
+                    "width": 31.5,
+                    "height": 67.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 311,
+                    "y": 47,
+                    "width": 34,
+                    "height": 64.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 139,
+                    "y": 247.5,
+                    "width": 57.5,
+                    "height": 290
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 323,
+                    "y": 246,
+                    "width": 67,
+                    "height": 287
+                }
+            }
+        ]
+    },
+    {
+        "image": "images135_jpg.rf.78051d9dd68423b7b5f38596e053cf0e.jpg",
+        "annotations": [
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 196.5,
+                    "y": 269.5,
+                    "width": 138,
+                    "height": 258
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 355,
+                    "y": 158,
+                    "width": 66,
+                    "height": 178.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 228,
+                    "y": 58.5,
+                    "width": 48.5,
+                    "height": 56
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 358.5,
+                    "y": 35.5,
+                    "width": 29.5,
+                    "height": 51
+                }
+            }
+        ]
+    },
+    {
+        "image": "images192_jpg.rf.7d527f64a63a73fd5acf82eee9e1f6fe.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 215.5,
+                    "y": 55,
+                    "width": 70,
+                    "height": 78
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 39.5,
+                    "y": 84,
+                    "width": 31.5,
+                    "height": 39
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 77.5,
+                    "y": 103.5,
+                    "width": 33,
+                    "height": 37
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 173,
+                    "y": 96.5,
+                    "width": 30,
+                    "height": 37
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 346,
+                    "y": 111.5,
+                    "width": 27,
+                    "height": 30
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 402,
+                    "y": 115,
+                    "width": 25.5,
+                    "height": 27.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 346,
+                    "y": 222,
+                    "width": 44.5,
+                    "height": 122
+                }
+            }
+        ]
+    },
+    {
+        "image": "images0_jpg.rf.89ba2e7d941514f59e825a3c6f899d80.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 205,
+                    "y": 104.5,
+                    "width": 208,
+                    "height": 99.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 245.5,
+                    "y": 324.5,
+                    "width": 336.5,
+                    "height": 180
+                }
+            }
+        ]
+    },
+    {
+        "image": "Blog-image-gifts_png.rf.7d9dafdd77aeb9d5f1392673e267e4a8.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 261,
+                    "y": 46.5,
+                    "width": 58.5,
+                    "height": 64
+                }
+            }
+        ]
+    },
+    {
+        "image": "images187_jpg.rf.773debf65fd4525e166c11950740ef1a.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 123.5,
+                    "y": 81.5,
+                    "width": 57,
+                    "height": 83
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 230.5,
+                    "y": 66,
+                    "width": 107.5,
+                    "height": 127.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images28_jpg.rf.893b749fa6ce524ba11c0bf8a6c1e1ff.jpg",
+        "annotations": [
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 79,
+                    "y": 298.5,
+                    "width": 155.5,
+                    "height": 230.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 193.5,
+                    "y": 283.5,
+                    "width": 184.5,
+                    "height": 260
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 68.5,
+                    "y": 80.5,
+                    "width": 98.5,
+                    "height": 111.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 134.5,
+                    "y": 59.5,
+                    "width": 75,
+                    "height": 84
+                }
+            }
+        ]
+    },
+    {
+        "image": "images58_jpg.rf.9b9a3334a8371128dfbd3ab92a339ccd.jpg",
+        "annotations": [
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 107.5,
+                    "y": 315,
+                    "width": 142,
+                    "height": 179.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 240,
+                    "y": 302.5,
+                    "width": 107.5,
+                    "height": 204.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 103,
+                    "y": 150,
+                    "width": 63.5,
+                    "height": 86.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 207,
+                    "y": 130.5,
+                    "width": 63.5,
+                    "height": 84
+                }
+            }
+        ]
+    },
+    {
+        "image": "119269054-female-construction-worker-smiling-at-camera-in-empty-warehouse_jpg.rf.838731d13f48fae7c639c51fb9f1e1b3.jpg",
+        "annotations": [
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 281,
+                    "y": 285.5,
+                    "width": 153.5,
+                    "height": 259.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 267,
+                    "y": 59.5,
+                    "width": 59.5,
+                    "height": 68.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images233_jpg.rf.a277808c19b505f024ea39d0c15af8e0.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 144,
+                    "y": 218,
+                    "width": 16.5,
+                    "height": 20
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 310.5,
+                    "y": 54.5,
+                    "width": 100,
+                    "height": 104
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 316,
+                    "y": 312,
+                    "width": 197,
+                    "height": 203
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 149,
+                    "y": 280,
+                    "width": 40,
+                    "height": 84
+                }
+            }
+        ]
+    },
+    {
+        "image": "images116_jpg.rf.8daac20cc8e7e59f782bebf2b26943f6.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 64.5,
+                    "y": 157,
+                    "width": 32,
+                    "height": 41
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 106,
+                    "y": 153.5,
+                    "width": 27,
+                    "height": 34
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 156,
+                    "y": 152.5,
+                    "width": 24,
+                    "height": 32
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 188.5,
+                    "y": 127.5,
+                    "width": 44,
+                    "height": 45.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 234.5,
+                    "y": 144.5,
+                    "width": 45.5,
+                    "height": 43
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 310,
+                    "y": 137.5,
+                    "width": 36.5,
+                    "height": 34
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 361.5,
+                    "y": 124,
+                    "width": 45.5,
+                    "height": 38.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 48.5,
+                    "y": 229.5,
+                    "width": 36.5,
+                    "height": 113.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 105,
+                    "y": 221.5,
+                    "width": 35,
+                    "height": 93
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 317.5,
+                    "y": 252.5,
+                    "width": 57.5,
+                    "height": 141
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 380.5,
+                    "y": 248,
+                    "width": 62,
+                    "height": 168
+                }
+            }
+        ]
+    },
+    {
+        "image": "Graham-Fagg-Philippe-Cozette-1123831_jpg.rf.88162abc4831a6b3e1be98e1a2dcbb9f.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 237.5,
+                    "y": 100.5,
+                    "width": 47,
+                    "height": 46.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 334.5,
+                    "y": 38,
+                    "width": 70,
+                    "height": 69
+                }
+            }
+        ]
+    },
+    {
+        "image": "images68_jpg.rf.9a508c7ff6471327b5b77a991730093c.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 252.5,
+                    "y": 49,
+                    "width": 81.5,
+                    "height": 79.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "architectural-engineering-construction-worker-laborer-industry-building-building_jpg.rf.b14ac9ee76f4ef2c66cc09ce57577e76.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 68,
+                    "y": 44.5,
+                    "width": 46.5,
+                    "height": 37.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 176,
+                    "y": 48.5,
+                    "width": 43,
+                    "height": 36
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 239,
+                    "y": 17,
+                    "width": 45,
+                    "height": 33.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 354.5,
+                    "y": 41.5,
+                    "width": 44.5,
+                    "height": 30
+                }
+            }
+        ]
+    },
+    {
+        "image": "hard-hats-construction-foreman-finger-construction-worker-architectural-engineering-others_jpg.rf.b148878ed2349ecd26ac1249eb964677.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 211,
+                    "y": 33.5,
+                    "width": 104.5,
+                    "height": 54
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 207.5,
+                    "y": 208.5,
+                    "width": 345.5,
+                    "height": 196.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "gohba-handcrafts-the-greek-construction-worker-1533506182289_png.rf.ab4a33dd7ef5b61a78a2d8b429401afc.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 204,
+                    "y": 59,
+                    "width": 52.5,
+                    "height": 27
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 195,
+                    "y": 156,
+                    "width": 110.5,
+                    "height": 112
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 350,
+                    "y": 141.5,
+                    "width": 60.5,
+                    "height": 21.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images148_jpg.rf.ca9d23b7b817e8233ce203f7b070a5fd.jpg",
+        "annotations": [
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 269,
+                    "y": 322.5,
+                    "width": 186.5,
+                    "height": 182
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 268.5,
+                    "y": 59.5,
+                    "width": 121,
+                    "height": 114.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images97_jpg.rf.abd48b29a8f7f1721e335069fa7a3eda.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 217.5,
+                    "y": 100,
+                    "width": 90,
+                    "height": 104.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 333.5,
+                    "y": 79.5,
+                    "width": 55,
+                    "height": 54.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 343,
+                    "y": 196,
+                    "width": 50.5,
+                    "height": 102
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 216.5,
+                    "y": 314,
+                    "width": 178.5,
+                    "height": 199.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images182_jpg.rf.bf516560fbe684f4442725ecaa6a8ca1.jpg",
+        "annotations": [
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 217,
+                    "y": 168.5,
+                    "width": 43,
+                    "height": 109
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 223.5,
+                    "y": 81.5,
+                    "width": 27.5,
+                    "height": 34.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "36310482-group-of-construction-workers-_jpg.rf.a1af9129d3d846376d7c5ea8a9bfb761.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 68,
+                    "y": 116,
+                    "width": 38.5,
+                    "height": 46
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 139.5,
+                    "y": 122,
+                    "width": 38,
+                    "height": 47.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 208.5,
+                    "y": 86.5,
+                    "width": 62,
+                    "height": 69.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 272.5,
+                    "y": 117,
+                    "width": 41,
+                    "height": 44.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 349,
+                    "y": 116,
+                    "width": 35.5,
+                    "height": 44.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "handsome-young-topless-construction-stock-images_csp59141753_jpg.rf.b38c87530bc4e8b2fe39c5ae202e972b.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 312,
+                    "y": 60,
+                    "width": 51,
+                    "height": 54.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images154_jpg.rf.a350e2c4c4ccc7663e4bc595ffa4f3fd.jpg",
+        "annotations": [
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 261,
+                    "y": 138.5,
+                    "width": 24,
+                    "height": 36.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 327,
+                    "y": 131,
+                    "width": 38,
+                    "height": 36.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "image28_jpeg.rf.cdcc94c570c85f77c135369df41be508.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 128.5,
+                    "y": 90.5,
+                    "width": 109.5,
+                    "height": 126.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 227.5,
+                    "y": 80.5,
+                    "width": 61,
+                    "height": 111.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 352,
+                    "y": 137.5,
+                    "width": 58,
+                    "height": 72
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 77,
+                    "y": 323,
+                    "width": 148.5,
+                    "height": 181
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 186.5,
+                    "y": 286,
+                    "width": 115,
+                    "height": 255
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 367.5,
+                    "y": 319,
+                    "width": 95,
+                    "height": 192
+                }
+            }
+        ]
+    },
+    {
+        "image": "construction_cover_jpg.rf.b80cfb05d304008bbf0e516b60bf739f.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 90,
+                    "y": 79.5,
+                    "width": 46.5,
+                    "height": 50.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 193.5,
+                    "y": 113.5,
+                    "width": 53,
+                    "height": 59.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 315.5,
+                    "y": 187.5,
+                    "width": 30,
+                    "height": 32
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 337,
+                    "y": 232,
+                    "width": 15.5,
+                    "height": 17
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 86,
+                    "y": 256,
+                    "width": 84.5,
+                    "height": 189.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 308.5,
+                    "y": 256.5,
+                    "width": 38,
+                    "height": 87.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 337,
+                    "y": 273.5,
+                    "width": 18,
+                    "height": 53.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images234_jpg.rf.e1534b277f0aa79be4a4ef75324159e1.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 42.5,
+                    "y": 20.5,
+                    "width": 15,
+                    "height": 13.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 137,
+                    "y": 26,
+                    "width": 16.5,
+                    "height": 16
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 170,
+                    "y": 47.5,
+                    "width": 19.5,
+                    "height": 27.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 205.5,
+                    "y": 101,
+                    "width": 15,
+                    "height": 29.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 239,
+                    "y": 62.5,
+                    "width": 15,
+                    "height": 16
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 286.5,
+                    "y": 74,
+                    "width": 16.5,
+                    "height": 20.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "construction-1914800_960_720_jpg.rf.ce17423b76a2db65fb9cae5f0c51a404.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 127,
+                    "y": 96,
+                    "width": 34,
+                    "height": 37
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 173,
+                    "y": 66,
+                    "width": 34,
+                    "height": 33
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 219.5,
+                    "y": 92,
+                    "width": 17,
+                    "height": 20
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 396,
+                    "y": 191,
+                    "width": 24,
+                    "height": 24
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 119,
+                    "y": 190.5,
+                    "width": 50.5,
+                    "height": 110.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 190,
+                    "y": 176.5,
+                    "width": 65,
+                    "height": 141
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 238.5,
+                    "y": 185,
+                    "width": 41.5,
+                    "height": 99.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 401.5,
+                    "y": 254,
+                    "width": 28,
+                    "height": 76.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images174_jpg.rf.e198c9f6227bfa635c025bd5121c73d3.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 246,
+                    "y": 47.5,
+                    "width": 94,
+                    "height": 90.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 257.5,
+                    "y": 301,
+                    "width": 162.5,
+                    "height": 225
+                }
+            }
+        ]
+    },
+    {
+        "image": "images210_jpg.rf.e1468c885a633b52991b603300268a04.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 128.5,
+                    "y": 122,
+                    "width": 15.5,
+                    "height": 31.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 127,
+                    "y": 191,
+                    "width": 21,
+                    "height": 87.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images104_jpg.rf.d3b0fcfe002170c8374c9eec6058908c.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 177,
+                    "y": 46.5,
+                    "width": 115,
+                    "height": 88.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 139,
+                    "y": 282,
+                    "width": 163.5,
+                    "height": 245.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images94_jpg.rf.89639c142746bd578c88d6669f06b0b3.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 123.5,
+                    "y": 36.5,
+                    "width": 36.5,
+                    "height": 62
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 232.5,
+                    "y": 109.5,
+                    "width": 36.5,
+                    "height": 56
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 332,
+                    "y": 26.5,
+                    "width": 40.5,
+                    "height": 48
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 131.5,
+                    "y": 197,
+                    "width": 72,
+                    "height": 135
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 235.5,
+                    "y": 261.5,
+                    "width": 65,
+                    "height": 140.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 338.5,
+                    "y": 233.5,
+                    "width": 101.5,
+                    "height": 247.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images35_jpg.rf.d170672baf8b1010b220f899d7685523.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 258,
+                    "y": 108.5,
+                    "width": 21.5,
+                    "height": 43.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 94,
+                    "y": 185,
+                    "width": 14.5,
+                    "height": 52
+                }
+            }
+        ]
+    },
+    {
+        "image": "Carpenter-Photo-stationaryfuelcells_jpg.rf.e14c9f571d003e2244c1027f306582a3.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 246.5,
+                    "y": 83,
+                    "width": 45,
+                    "height": 36.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images29_jpg.rf.ea49130ebc87b49a8688e101719dff15.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 268.5,
+                    "y": 58,
+                    "width": 62,
+                    "height": 61.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 283.5,
+                    "y": 283,
+                    "width": 159,
+                    "height": 261.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images7_jpg.rf.d1fe2315499e3824dcdbd55bd7ba2060.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 100.5,
+                    "y": 192,
+                    "width": 19.5,
+                    "height": 38.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 190.5,
+                    "y": 180.5,
+                    "width": 21,
+                    "height": 29.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 71,
+                    "y": 218,
+                    "width": 48.5,
+                    "height": 77.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 209.5,
+                    "y": 209,
+                    "width": 59,
+                    "height": 63.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "images242_jpg.rf.e6131cd54ec05f3da644ea3c36009de0.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 248.5,
+                    "y": 35,
+                    "width": 130.5,
+                    "height": 52
+                }
+            }
+        ]
+    },
+    {
+        "image": "images47_jpg.rf.f98b1eb7855a6d2484bac219a08516f6.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 181,
+                    "y": 87.5,
+                    "width": 89.5,
+                    "height": 97.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 205,
+                    "y": 300,
+                    "width": 174,
+                    "height": 209
+                }
+            }
+        ]
+    },
+    {
+        "image": "construction-worker-hardhat-laborer-09-mar-2017-jpeg_jpg.rf.edeac82d71e1bbcbdceab4ec438733e9.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 262.5,
+                    "y": 73,
+                    "width": 79,
+                    "height": 99.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 260,
+                    "y": 300,
+                    "width": 146,
+                    "height": 230
+                }
+            }
+        ]
+    },
+    {
+        "image": "images162_jpg.rf.f7439b8f61f774a3e378cdb0303639bf.jpg",
+        "annotations": [
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 137.5,
+                    "y": 229,
+                    "width": 26.5,
+                    "height": 49.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 84,
+                    "y": 145.5,
+                    "width": 22,
+                    "height": 23.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 139,
+                    "y": 191.5,
+                    "width": 11.5,
+                    "height": 12
+                }
+            }
+        ]
+    },
+    {
+        "image": "images124_jpg.rf.e3fd185c8a86aec82f24d66da97ea7c5.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 208,
+                    "y": 53.5,
+                    "width": 68,
+                    "height": 75
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 208,
+                    "y": 292,
+                    "width": 150,
+                    "height": 243
+                }
+            }
+        ]
+    },
+    {
+        "image": "dv176046a_jpg.rf.faa362a174e95320377c60c7a299e2e8.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 281,
+                    "y": 213.5,
+                    "width": 50,
+                    "height": 67.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 120,
+                    "y": 59,
+                    "width": 7.5,
+                    "height": 9.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 133.5,
+                    "y": 82.5,
+                    "width": 7.5,
+                    "height": 7.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 271,
+                    "y": 288.5,
+                    "width": 69.5,
+                    "height": 135
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 110,
+                    "y": 76,
+                    "width": 14.5,
+                    "height": 32
+                }
+            }
+        ]
+    },
+    {
+        "image": "construction-jobs_jpg.rf.cb9ce45d15b82852e46d83ea2466a64b.jpg",
+        "annotations": [
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 68.5,
+                    "y": 273.5,
+                    "width": 116,
+                    "height": 283.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 266,
+                    "y": 306,
+                    "width": 111,
+                    "height": 218
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 9,
+                    "y": 167,
+                    "width": 17,
+                    "height": 27
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 168,
+                    "y": 125,
+                    "width": 9,
+                    "height": 11
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 164,
+                    "y": 87,
+                    "width": 5,
+                    "height": 12.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 180.5,
+                    "y": 88.5,
+                    "width": 4,
+                    "height": 8.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 188.5,
+                    "y": 89,
+                    "width": 4,
+                    "height": 10
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 96.5,
+                    "y": 83,
+                    "width": 75,
+                    "height": 137.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 231,
+                    "y": 95,
+                    "width": 92,
+                    "height": 120.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 167.5,
+                    "y": 115.5,
+                    "width": 4,
+                    "height": 5
+                }
+            }
+        ]
+    },
+    {
+        "image": "69_Fisk_IRT_work_vests_jeh_jpg.rf.fccae2bf156bc0dd9d16e02b7af1ac6f.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 60,
+                    "y": 97,
+                    "width": 26,
+                    "height": 27.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 232,
+                    "y": 109,
+                    "width": 23.5,
+                    "height": 21.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 297,
+                    "y": 165,
+                    "width": 19,
+                    "height": 22.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 59,
+                    "y": 145,
+                    "width": 41.5,
+                    "height": 64.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 227,
+                    "y": 157,
+                    "width": 37,
+                    "height": 64.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 306.5,
+                    "y": 204,
+                    "width": 41,
+                    "height": 61.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "eight_col_045_IS09AW2HA_jpg.rf.eb68c40f51deb62f2ad1b96fd5d7caae.jpg",
+        "annotations": [
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 195,
+                    "y": 101.5,
+                    "width": 69,
+                    "height": 67.5
+                }
+            },
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 199.5,
+                    "y": 274,
+                    "width": 101.5,
+                    "height": 125.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "Apprentice_male3-width-400-width-400_png.rf.04f35c90fa2acb6927b69368d2f2a912.jpg",
+        "annotations": [
+            {
+                "label": "high-vis",
+                "coordinates": {
+                    "x": 214,
+                    "y": 297,
+                    "width": 274.5,
+                    "height": 236.5
+                }
+            },
+            {
+                "label": "hard hat",
+                "coordinates": {
+                    "x": 217,
+                    "y": 40.5,
+                    "width": 128,
+                    "height": 77
+                }
+            }
+        ]
+    }
+]
